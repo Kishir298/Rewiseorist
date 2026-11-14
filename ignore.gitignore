@@ -1,0 +1,95 @@
+# Rewiseorist local ignore rules
+# This is the project-requested ignore file. Git is configured locally with:
+#   git config --local core.excludesFile ignore.gitignore
+
+# Python virtual environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Secrets and local credentials
+.env
+.env.*
+secrets.json
+data/secrets.json
+*.pem
+*.key
+*.pfx
+
+# SQLite databases and personal application data
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+data/rewiseorist.db
+data/uploads/
+data/processed/
+data/chatlogs/
+data/backups/
+data/private/
+data/index/
+data/tmp/
+data/exports/
+data/secrets/
+
+# Generated model files (included in the final ZIP, not in Git)
+models/*.pt
+models/*.pth
+models/*.bin
+models/*.joblib
+models/*.pkl
+models/*.npz
+models/*.npy
+models/checkpoints/
+models/tokenizer.json
+models/config.json
+
+# Raw datasets and downloaded corpora (not redistributed)
+raw/
+datasets/
+data/raw/
+data/dataset/
+*.parquet
+*.arrow
+*.txt.gz
+TinyStories*.txt
+
+# Private screenshots / evidence
+evidence/private/
+evidence/raw/
+private/
+
+# Logs
+*.log
+logs/
+
+# OS / editor / tooling
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+node_modules/
+playwright-report/
+test-results/
+blob-report/
+
+# Generated archives
+*.zip
+*.7z
+*.tar.gz
+*.tgz
+
+# Temporary files
+*.tmp
+*.temp
+~$*
