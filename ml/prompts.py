@@ -79,6 +79,22 @@ def build_performance_prompt(features: dict, history_summary: str) -> str:
     )
 
 
+CHAT_MARKER_RE = re.compile(r"^<user>\s*|\s*<assistant>\s*$", re.IGNORECASE)
+
+
+def strip_chat_markers(prompt: str) -> str:
+    """Return the instruction body for an instruct teacher's chat endpoint.
+
+    The tiny student model is trained with explicit `<user>`/`<assistant>`
+    boundaries. Instruct teacher models apply their own chat template, so those
+    markers should not be sent twice.
+    """
+    text = (prompt or "").strip()
+    text = re.sub(r"^<user>\s*", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s*<assistant>\s*$", "", text, flags=re.IGNORECASE)
+    return text.strip()
+
+
 CITATION_RE = re.compile(r"source\s*:\s*([^\n|]+)\|\s*([^\n]+)", re.IGNORECASE)
 
 

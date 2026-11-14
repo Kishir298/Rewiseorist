@@ -17,12 +17,14 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
+import requests
 from flask import Flask, current_app, jsonify, request, send_file, send_from_directory
 from werkzeug.exceptions import RequestEntityTooLarge
 
 import resources
 import storage
 import study_tools
+from ml.prompts import build_revision_prompt, clean_teacher_answer, extract_citation, strip_chat_markers
 from ml.runtime import ModelRuntime, ModelUnavailable
 
 ROOT = Path(__file__).resolve().parent
@@ -298,6 +300,55 @@ def _help_response(message: str, page: str) -> dict:
     }
 
 
+def _external_revision(settings: dict, api_key: str, question: str,
+                       sources: list[dict], personality: str) -> dict:
+    """Call an explicitly configured external OpenAI-compatible endpoint.
+
+    Only reached when the profile selected API mode *and* ticked per-message
+    permission. The API key never appears in logs or responses.
+    """
+    base = str(settings.get("api_base", "")).strip().rstrip("/")
+    model_name = str(settings.get("api_model", "")).strip()
+    if not base or not model_name:
+        raise ValueError("External API mode needs a base URL and model name in Settings.")
+    if not api_key:
+        raise ValueError("External API mode needs a saved API key in Settings.")
+    prompt = strip_chat_markers(build_revision_prompt(question, sources, personality))
+    response = requests.post(
+        f"{base}/chat/completions",
+        headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+        json={
+            "model": model_name,
+            "messages": [
+                {"role": "system", "content": "You are Rewiseorist, a source-grounded revision tutor."},
+                {"role": "user", "content": prompt},
+            ],
+            "temperature": 0.3,
+            "max_tokens": 320,
+        },
+        timeout=90,
+    )
+    if response.status_code >= 400:
+        raise RuntimeError(f"External API returned HTTP {response.status_code}.")
+    payload = response.json()
+    text = clean_teacher_answer(payload["choices"][0]["message"]["content"])
+    picked = []
+    for source in sources[:4]:
+        label = source.get("original_name") or "source"
+        ref = source.get("source_ref") or source.get("page_ref") or "source"
+        picked.append({"original_name": label, "source_ref": ref, "text": source.get("text", "")})
+    if not extract_citation(text) and picked:
+        text = f"{text}\nSource: {picked[0]['original_name']} | {picked[0]['source_ref']}".strip()
+    return {
+        "text": text,
+        "sources": picked or sources,
+        "model_version": f"external:{model_name}",
+        "verified": False,
+        "model": {"name": model_name, "version": f"external:{model_name}", "local": False},
+        "external": True,
+    }
+
+
 def create_app(test_config: dict | None = None, runtime_override: ModelRuntime | None = None) -> Flask:
     app = Flask(__name__, static_folder=None)
     app.config.update(
@@ -553,12 +604,25 @@ def create_app(test_config: dict | None = None, runtime_override: ModelRuntime |
                             attachments=attachments, verified=True)
         chunks = storage.chunks_for_topic(profile_id, topic_id, _db())
         sources = resources.retrieve(message, chunks, top_k=5)
-        try:
-            result = _runtime().generate_revision(message, sources, personality)
-        except ModelUnavailable as exc:
-            return _error(str(exc), 503, sources=sources)
-        except Exception as exc:
-            return _error(f"The local model could not answer: {exc}", 503, sources=sources)
+        if settings.get("ai_mode") == "api":
+            if not bool(data.get("api_permission")):
+                return _error(
+                    "External API mode needs per-message permission. Tick the permission box "
+                    "or switch back to local mode in Settings.",
+                    403, sources=sources,
+                )
+            api_key = _load_secrets().get(str(profile_id), {}).get("api_key", "")
+            try:
+                result = _external_revision(settings, api_key, message, sources, personality)
+            except (ValueError, RuntimeError, KeyError, requests.RequestException) as exc:
+                return _error(f"The external API could not answer: {exc}", 503, sources=sources)
+        else:
+            try:
+                result = _runtime().generate_revision(message, sources, personality)
+            except ModelUnavailable as exc:
+                return _error(str(exc), 503, sources=sources)
+            except Exception as exc:
+                return _error(f"The local model could not answer: {exc}", 503, sources=sources)
         answer = str(result.get("text", "")).strip()
         if not answer:
             return _error("The local model returned an empty answer. Try rephrasing.", 503, sources=sources)

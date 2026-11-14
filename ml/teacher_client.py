@@ -19,6 +19,8 @@ from typing import Sequence
 
 import requests
 
+from ml.prompts import strip_chat_markers
+
 ROOT = Path(__file__).resolve().parents[1]
 LLAMA_DIR = ROOT / "teacher_models" / "llama.cpp"
 SERVER_BINARY = LLAMA_DIR / "llama-server.exe"
@@ -156,7 +158,7 @@ class LlamaCppServer:
         messages = []
         if system:
             messages.append({"role": "system", "content": system})
-        messages.append({"role": "user", "content": prompt})
+        messages.append({"role": "user", "content": strip_chat_markers(prompt)})
         started = time.time()
         response = requests.post(
             f"{self.base_url}/v1/chat/completions",

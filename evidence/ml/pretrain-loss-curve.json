@@ -1,0 +1,98 @@
+[
+  {
+    "step": 150,
+    "train_loss": 4.56595,
+    "val_loss": 4.53542,
+    "lr": 0.0002973113033217675,
+    "tokens_seen": 460800,
+    "elapsed_seconds": 226.1
+  },
+  {
+    "step": 300,
+    "train_loss": 4.07385,
+    "val_loss": 4.01973,
+    "lr": 0.0002850407546561908,
+    "tokens_seen": 921600,
+    "elapsed_seconds": 428.5
+  },
+  {
+    "step": 450,
+    "train_loss": 3.88188,
+    "val_loss": 3.8005,
+    "lr": 0.0002636813374753668,
+    "tokens_seen": 1382400,
+    "elapsed_seconds": 661.1
+  },
+  {
+    "step": 600,
+    "train_loss": 3.78293,
+    "val_loss": 3.65708,
+    "lr": 0.00023475517649027233,
+    "tokens_seen": 1843200,
+    "elapsed_seconds": 912.8
+  },
+  {
+    "step": 750,
+    "train_loss": 3.47432,
+    "val_loss": 3.53047,
+    "lr": 0.00020032362122446252,
+    "tokens_seen": 2304000,
+    "elapsed_seconds": 1147.9
+  },
+  {
+    "step": 900,
+    "train_loss": 3.62307,
+    "val_loss": 3.42651,
+    "lr": 0.00016284034916659598,
+    "tokens_seen": 2764800,
+    "elapsed_seconds": 1379.3
+  },
+  {
+    "step": 1050,
+    "train_loss": 3.53526,
+    "val_loss": 3.34527,
+    "lr": 0.00012497651066523027,
+    "tokens_seen": 3225600,
+    "elapsed_seconds": 1650.0
+  },
+  {
+    "step": 1200,
+    "train_loss": 3.43232,
+    "val_loss": 3.28856,
+    "lr": 8.943037617163532e-05,
+    "tokens_seen": 3686400,
+    "elapsed_seconds": 1911.5
+  },
+  {
+    "step": 1350,
+    "train_loss": 3.26968,
+    "val_loss": 3.2457,
+    "lr": 5.87350508372469e-05,
+    "tokens_seen": 4147200,
+    "elapsed_seconds": 2180.5
+  },
+  {
+    "step": 1500,
+    "train_loss": 3.25303,
+    "val_loss": 3.2208,
+    "lr": 3.5077959197454e-05,
+    "tokens_seen": 4608000,
+    "elapsed_seconds": 2431.3
+  },
+  {
+    "step": 1650,
+    "train_loss": 3.39442,
+    "val_loss": 3.20631,
+    "lr": 2.0144963908055213e-05,
+    "tokens_seen": 5068800,
+    "elapsed_seconds": 2658.3
+  },
+  {
+    "step": 1800,
+    "train_loss": 3.11762,
+    "val_loss": 3.19562,
+    "lr": 1.5000227017409236e-05,
+    "tokens_seen": 5529600,
+    "elapsed_seconds": 2889.9
+  }
+]

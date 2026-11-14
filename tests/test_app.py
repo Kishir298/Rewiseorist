@@ -1,4 +1,5 @@
 import io
+import json
 from pathlib import Path
 
 import pytest
@@ -168,6 +169,64 @@ def test_store_notes_and_backup(client):
     backup = client.get(f"/api/backup?profile_id={profile['id']}")
     assert backup.status_code == 200
     assert backup.data[:2] == b"PK"
+
+
+def test_external_api_requires_permission_and_never_echoes_key(client, monkeypatch):
+    client, runtime, _ = client
+    profile = make_profile(client, "API")
+    topic = json_of(client.post("/api/topics", json={
+        "profile_id": profile["id"], "name": "Forces",
+    }))["topic"]
+    client.post(
+        "/api/resources/upload",
+        data={"profile_id": str(profile["id"]), "topic_name": "Forces",
+              "files": (io.BytesIO(b"Friction is a contact force that opposes motion."), "forces.md")},
+        content_type="multipart/form-data",
+    )
+    settings = json_of(client.post("/api/settings", json={
+        "profile_id": profile["id"], "ai_mode": "api",
+        "api_base": "https://example.invalid/v1", "api_model": "test-teacher",
+    }))["settings"]
+    assert settings["ai_mode"] == "api"
+    assert json_of(client.post("/api/settings/api-key", json={
+        "profile_id": profile["id"], "api_key": "test-secret-key",
+    }))["api_key_present"] is True
+
+    denied = client.post("/api/chat", json={
+        "profile_id": profile["id"], "topic_id": topic["id"],
+        "message": "What is friction?",
+    })
+    assert denied.status_code == 403
+    assert "permission" in json_of(denied)["error"].lower()
+    assert runtime.generated == 0
+
+    captured = {}
+
+    class FakeResponse:
+        status_code = 200
+
+        def json(self):
+            return {"choices": [{"message": {"content": (
+                "Friction is a contact force that opposes motion.\\n"
+                "Source: forces.md | sample"
+            )}}]}
+
+    def fake_post(url, headers=None, json=None, timeout=None):
+        captured.update({"url": url, "headers": headers, "json": json, "timeout": timeout})
+        return FakeResponse()
+
+    monkeypatch.setattr(app_module.requests, "post", fake_post)
+    allowed = json_of(client.post("/api/chat", json={
+        "profile_id": profile["id"], "topic_id": topic["id"],
+        "message": "What is friction?", "api_permission": True,
+    }))
+    assert allowed["model"]["local"] is False
+    assert allowed["model"]["version"] == "external:test-teacher"
+    assert captured["url"] == "https://example.invalid/v1/chat/completions"
+    assert captured["headers"]["Authorization"] == "Bearer test-secret-key"
+    assert captured["json"]["model"] == "test-teacher"
+    assert "test-secret-key" not in json.dumps(allowed)
+    assert runtime.generated == 0
 
 
 def test_inactivity_boundaries(client):

@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Rewiseorist — a local, offline revision tutor with a from-scratch language model.">
+  <title>Rewiseorist — revise with your own local tutor</title>
+  <link rel="stylesheet" href="/stylingscripts/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="Main navigation">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">R</span>
+        <span class="brand-text"><strong>Rewiseorist</strong><small>Local revision tutor</small></span>
+      </div>
+      <nav class="nav-list" aria-label="Sections">
+        <button class="nav-item is-active" data-page="home" aria-current="page"><span aria-hidden="true">⌂</span> Home</button>
+        <button class="nav-item" data-page="study"><span aria-hidden="true">✎</span> Study</button>
+        <button class="nav-item" data-page="resources"><span aria-hidden="true">▤</span> Resources</button>
+        <button class="nav-item" data-page="progress"><span aria-hidden="true">◔</span> Progress</button>
+        <button class="nav-item" data-page="store"><span aria-hidden="true">◈</span> Store</button>
+        <button class="nav-item" data-page="settings"><span aria-hidden="true">⚙</span> Settings</button>
+      </nav>
+      <div class="sidebar-footer">
+        <div class="mini-status" id="sidebar-model-status">Checking local model…</div>
+        <button class="profile-button" id="profile-button" aria-label="Open profile and settings" title="Profile">
+          <span id="profile-avatar" aria-hidden="true">🧑‍🎓</span>
+          <span class="profile-meta"><strong id="profile-name">Guest</strong><small id="profile-level">Profile</small></span>
+        </button>
+      </div>
+    </aside>
+
+    <div class="main-column">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Rewiseorist</p>
+          <h1 id="page-title">Home</h1>
+        </div>
+        <div class="topbar-actions">
+          <span class="pill" id="offline-pill">100% local</span>
+          <button class="help-button" id="help-button" aria-label="Open help assistant" title="Help">?</button>
+        </div>
+      </header>
+
+      <main id="main-content" tabindex="-1">
+        <section class="page is-active" id="page-home" aria-labelledby="home-heading">
+          <div class="hero panel">
+            <div>
+              <p class="eyebrow">Your own model, on this laptop</p>
+              <h2 id="home-heading">Turn notes into a revision conversation.</h2>
+              <p class="lede">Upload your class notes, ask a question, practise with checked quizzes, and build a plan that fits your week. No cloud account, no paywall, no Ollama.</p>
+              <form class="quick-prompt" id="home-prompt-form">
+                <label for="home-prompt">What do you want to revise?</label>
+                <div class="composer-row">
+                  <textarea id="home-prompt" rows="2" placeholder="Explain friction with an example…" required></textarea>
+                  <button class="button primary" type="submit">Start in Study</button>
+                </div>
+              </form>
+            </div>
+            <div class="hero-card" aria-label="Today at a glance">
+              <div class="stat-grid">
+                <div class="stat"><span id="home-xp">0</span><small>XP</small></div>
+                <div class="stat"><span id="home-coins">0</span><small>coins</small></div>
+                <div class="stat"><span id="home-accuracy">—</span><small>accuracy</small></div>
+                <div class="stat"><span id="home-sessions">0</span><small>saved chats</small></div>
+              </div>
+              <div class="model-badge" id="home-model-badge">Small local model · ready to check</div>
+            </div>
+          </div>
+
+          <div class="grid two-col">
+            <section class="panel">
+              <div class="panel-heading"><h2>Continue studying</h2><button class="text-button" data-goto="study">Open Study</button></div>
+              <div id="home-sessions-list" class="stack empty-state">No saved sessions yet. Start a chat in Study.</div>
+            </section>
+            <section class="panel">
+              <div class="panel-heading"><h2>Your next actions</h2><span class="pill soft" id="home-plan-pill">No plan yet</span></div>
+              <div id="home-actions" class="stack">
+                <button class="action-row" data-goto="resources"><strong>Add a source</strong><small>PDF, DOCX, PPTX, notes or a folder</small></button>
+                <button class="action-row" data-goto="study" data-study-tab="practice"><strong>Take a quick quiz</strong><small>Checked answers with feedback and hints</small></button>
+                <button class="action-row" data-goto="progress"><strong>See your progress</strong><small>Accuracy, streak, rewards and plan adherence</small></button>
+              </div>
+            </section>
+          </div>
+
+          <div class="grid three-col feature-grid">
+            <article class="panel feature"><span aria-hidden="true">◎</span><h3>Source-grounded</h3><p>Chat answers show the file and page or slide they used.</p></article>
+            <article class="panel feature"><span aria-hidden="true">✓</span><h3>Checked practice</h3><p>Quizzes mark answers against a checked key, not a guess.</p></article>
+            <article class="panel feature"><span aria-hidden="true">⌁</span><h3>Plans that adapt</h3><p>Priority comes from deadlines, accuracy, hints and review gaps.</p></article>
+          </div>
+        </section>
+
+        <section class="page" id="page-study" aria-labelledby="study-heading">
+          <div class="page-toolbar">
+            <div><p class="eyebrow">Study workspace</p><h2 id="study-heading">Chat, practise and plan</h2></div>
+            <div class="toolbar-actions">
+              <button class="button secondary" id="new-session-button">New chat</button>
+              <button class="button ghost" id="save-draft-button">Save draft</button>
+            </div>
+          </div>
+          <div class="study-layout">
+            <aside class="panel session-panel" aria-label="Saved study sessions">
+              <div class="panel-heading"><h3>Sessions</h3><span class="pill soft" id="session-count">0</span></div>
+              <div id="session-list" class="stack compact empty-state">No sessions yet.</div>
+            </aside>
+
+            <div class="panel study-workspace">
+              <div class="tab-list" role="tablist" aria-label="Study tools">
+                <button class="tab is-active" role="tab" aria-selected="true" data-study-tab="chat">Chat</button>
+                <button class="tab" role="tab" aria-selected="false" data-study-tab="practice">Practice</button>
+                <button class="tab" role="tab" aria-selected="false" data-study-tab="plans">Plans</button>
+                <button class="tab" role="tab" aria-selected="false" data-study-tab="notes">Notes &amp; drawing</button>
+              </div>
+
+              <div class="tab-panel is-active" id="study-tab-chat" role="tabpanel">
+                <div class="study-topic-row">
+                  <label for="chat-topic">Topic</label>
+                  <select id="chat-topic"></select>
+                  <input id="new-topic-name" type="text" placeholder="New topic name" aria-label="New topic name">
+                  <button class="button ghost" id="add-topic-button">Add topic</button>
+                  <span class="pill soft" id="chat-personality">Friendly</span>
+                </div>
+                <div class="chat-messages" id="chat-messages" aria-live="polite">
+                  <div class="empty-state">Choose a topic, then ask a question. Add a source in Resources for citations.</div>
+                </div>
+                <form class="chat-composer" id="chat-form">
+                  <label class="sr-only" for="chat-input">Your question</label>
+                  <textarea id="chat-input" rows="3" placeholder="Ask about your notes…" required></textarea>
+                  <div class="composer-actions">
+                    <label class="button ghost file-button">Attach<input id="chat-attachments" type="file" multiple hidden accept=".txt,.md,.pdf,.docx,.pptx,.csv,.png,.jpg,.jpeg"></label>
+                    <label class="check external-permission" id="external-permission-wrap" hidden><input id="external-permission" type="checkbox"> Send this message to the external API</label>
+                    <span class="draft-status" id="draft-status" aria-live="polite"></span>
+                    <button class="button primary" id="send-chat-button" type="submit">Send</button>
+                  </div>
+                </form>
+                <p class="fine-print">The local model can make mistakes. Check the cited source before trusting an answer.</p>
+              </div>
+
+              <div class="tab-panel" id="study-tab-practice" role="tabpanel">
+                <div class="practice-grid">
+                  <section>
+                    <div class="panel-heading"><h3>Checked quiz</h3><span class="pill soft" id="quiz-progress">0 answered</span></div>
+                    <div class="practice-controls">
+                      <label for="practice-topic">Topic</label>
+                      <select id="practice-topic"></select>
+                      <button class="button secondary" id="load-quiz-button">Load questions</button>
+                      <button class="button ghost" id="start-mock-button">Start 10-min mock</button>
+                      <button class="button ghost" id="start-flashcards-button">Flashcards</button>
+                    </div>
+                    <div id="quiz-area" class="quiz-area empty-state">Load questions for a topic to begin.</div>
+                    <div id="mock-timer" class="mock-timer" hidden>Mock exam: <strong>10:00</strong></div>
+                  </section>
+                  <aside class="panel inner-panel">
+                    <h3>Performance check</h3>
+                    <p class="muted">The classifier only gives a category after three distinct checked questions.</p>
+                    <button class="button secondary" id="classify-button">Check my level</button>
+                    <div id="classify-result" class="result-box empty-state">No classification yet.</div>
+                    <h3>Improvement steps</h3>
+                    <button class="button ghost" id="improvement-button">Show next steps</button>
+                    <ol id="improvement-list" class="steps"></ol>
+                  </aside>
+                </div>
+                <section id="flashcard-area" class="flashcard-area" hidden></section>
+              </div>
+
+              <div class="tab-panel" id="study-tab-plans" role="tabpanel">
+                <div class="plan-controls">
+                  <label>Days <input id="plan-days" type="number" min="1" max="30" value="7"></label>
+                  <label>Minutes per day <input id="plan-minutes" type="number" min="10" max="240" value="45"></label>
+                  <button class="button primary" id="generate-plan-button">Generate plan</button>
+                  <button class="button ghost" id="download-plan-button" disabled>Download accepted plan</button>
+                </div>
+                <div id="plan-output" class="plan-output empty-state">Generate a plan to see priority and scheduled blocks.</div>
+                <section class="inner-panel">
+                  <div class="panel-heading"><h3>Plan versions</h3><span class="pill soft">Restore with confirmation</span></div>
+                  <div id="plan-versions" class="stack compact empty-state">No plan versions yet.</div>
+                </section>
+              </div>
+
+              <div class="tab-panel" id="study-tab-notes" role="tabpanel">
+                <div class="notes-layout">
+                  <section>
+                    <label for="note-target">Attach note to</label>
+                    <input id="note-target" type="text" value="study" aria-describedby="note-target-help">
+                    <p id="note-target-help" class="fine-print">Use a topic or resource name. Notes autosave when you press Save.</p>
+                    <label for="note-text">Written note</label>
+                    <textarea id="note-text" rows="7" placeholder="Key definitions, mistakes to revisit…"></textarea>
+                    <div class="canvas-toolbar">
+                      <label for="draw-colour">Pen</label>
+                      <input id="draw-colour" type="color" value="#1d4ed8">
+                      <label for="draw-width">Width</label>
+                      <input id="draw-width" type="range" min="1" max="12" value="3">
+                      <button class="button ghost" id="clear-canvas-button" type="button">Clear</button>
+                      <button class="button primary" id="save-note-button" type="button">Save note</button>
+                    </div>
+                    <canvas id="drawing-canvas" width="800" height="360" aria-label="Drawing canvas"></canvas>
+                  </section>
+                  <aside class="panel inner-panel">
+                    <h3>Saved notes</h3>
+                    <div id="notes-list" class="stack compact empty-state">No notes saved.</div>
+                  </aside>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="page" id="page-resources" aria-labelledby="resources-heading">
+          <div class="page-toolbar">
+            <div><p class="eyebrow">Source library</p><h2 id="resources-heading">Import once, cite every time</h2></div>
+            <span class="pill soft">20 MB file · 50 files · ~200 MB folder</span>
+          </div>
+          <div class="grid two-col">
+            <form class="panel" id="upload-form">
+              <h3>Upload files or a folder</h3>
+              <label for="upload-topic">Topic</label>
+              <input id="upload-topic" type="text" placeholder="e.g. Forces" required>
+              <label for="upload-files">Files</label>
+              <input id="upload-files" type="file" multiple accept=".txt,.md,.pdf,.docx,.pptx,.csv,.vtt,.srt,.png,.jpg,.jpeg,.mp3,.mp4">
+              <label for="upload-folder">Or a folder</label>
+              <input id="upload-folder" type="file" multiple webkitdirectory directory>
+              <div class="form-actions">
+                <button class="button primary" type="submit">Import sources</button>
+                <span class="fine-print" id="upload-status" aria-live="polite"></span>
+              </div>
+              <p class="fine-print">Text-based PDFs, DOCX, PPTX, MD, TXT and transcripts work offline. Images need optional OCR; audio/video need a matching transcript.</p>
+            </form>
+            <section class="panel">
+              <div class="panel-heading"><h3>Local plugins</h3><span class="pill soft">Optional</span></div>
+              <div id="plugin-list" class="stack compact"></div>
+              <form id="research-form" class="research-form">
+                <h3>Permission-based web research</h3>
+                <label for="research-url">Public URL</label>
+                <input id="research-url" type="url" placeholder="https://…">
+                <label class="check"><input id="research-permission" type="checkbox"> I give permission to fetch this page now.</label>
+                <button class="button secondary" type="submit">Fetch and save source</button>
+              </form>
+            </section>
+          </div>
+          <section class="panel">
+            <div class="panel-heading"><h3>Your sources</h3><span class="pill soft" id="resource-count">0</span></div>
+            <div id="resource-list" class="resource-list empty-state">No sources imported yet.</div>
+          </section>
+        </section>
+
+        <section class="page" id="page-progress" aria-labelledby="progress-heading">
+          <div class="page-toolbar">
+            <div><p class="eyebrow">Evidence, not guesses</p><h2 id="progress-heading">Your progress</h2></div>
+            <div class="segmented" role="group" aria-label="Progress period">
+              <button class="is-active" data-period="all">All</button>
+              <button data-period="monthly">Month</button>
+              <button data-period="weekly">Week</button>
+              <button data-period="daily">Today</button>
+            </div>
+          </div>
+          <div class="stat-grid wide">
+            <div class="stat panel"><span id="progress-accuracy">—</span><small>accuracy</small></div>
+            <div class="stat panel"><span id="progress-attempts">0</span><small>checked attempts</small></div>
+            <div class="stat panel"><span id="progress-minutes">0</span><small>active minutes</small></div>
+            <div class="stat panel"><span id="progress-xp">0</span><small>XP this period</small></div>
+            <div class="stat panel"><span id="progress-adherence">—</span><small>plan adherence</small></div>
+          </div>
+          <div class="grid two-col">
+            <section class="panel">
+              <div class="panel-heading"><h3>Activity chart</h3><span class="pill soft" id="progress-period-label">All time</span></div>
+              <canvas id="progress-chart" width="720" height="260" aria-label="Activity chart"></canvas>
+              <div id="progress-chart-legend" class="chart-legend"></div>
+            </section>
+            <section class="panel">
+              <div class="panel-heading"><h3>Topics</h3><button class="text-button" data-goto="study" data-study-tab="practice">Practise</button></div>
+              <div id="progress-topics" class="stack compact empty-state">No topic evidence yet.</div>
+            </section>
+          </div>
+          <section class="panel">
+            <div class="panel-heading"><h3>Recent notes</h3><span class="pill soft">Private to this profile</span></div>
+            <div id="progress-notes" class="stack compact empty-state">No notes yet.</div>
+          </section>
+        </section>
+
+        <section class="page" id="page-store" aria-labelledby="store-heading">
+          <div class="page-toolbar">
+            <div><p class="eyebrow">Earned, never bought</p><h2 id="store-heading">Store</h2></div>
+            <div class="balance"><span class="pill">◈ <strong id="store-coins">0</strong> coins</span><span class="pill soft">AED 0 · no paywalls</span></div>
+          </div>
+          <div class="panel store-intro">
+            <p>Coins come from completed practice and mastery. Repeated easy answers do not pay twice. Every item is cosmetic.</p>
+          </div>
+          <div class="segmented" id="store-filters" role="group" aria-label="Store category">
+            <button class="is-active" data-category="all">All</button>
+            <button data-category="student_avatar">Student avatars</button>
+            <button data-category="ai_avatar">AI avatars</button>
+            <button data-category="theme">Themes</button>
+            <button data-category="background">Backgrounds</button>
+          </div>
+          <div id="store-grid" class="store-grid"></div>
+        </section>
+
+        <section class="page" id="page-settings" aria-labelledby="settings-heading">
+          <div class="page-toolbar">
+            <div><p class="eyebrow">Local control</p><h2 id="settings-heading">Settings</h2></div>
+            <span class="pill soft" id="settings-version">v1.0.0</span>
+          </div>
+          <div class="grid two-col">
+            <section class="panel" id="settings-profile">
+              <h3>Profile</h3>
+              <label for="profile-select">Active profile</label>
+              <div class="inline-form"><select id="profile-select"></select><button class="button ghost" id="refresh-profiles-button">Refresh</button></div>
+              <form id="profile-form" class="inline-form">
+                <label class="sr-only" for="new-profile-name">New profile name</label>
+                <input id="new-profile-name" type="text" placeholder="New profile name" maxlength="60">
+                <button class="button secondary" type="submit">Create profile</button>
+              </form>
+              <p class="fine-print">Profiles separate progress, sources and saved chats on this laptop.</p>
+            </section>
+
+            <section class="panel" id="settings-appearance">
+              <h3>Appearance</h3>
+              <label for="theme-select">Theme</label>
+              <select id="theme-select">
+                <option value="light">Light</option>
+                <option value="dark">Dark</option>
+                <option value="midnight">Midnight</option>
+                <option value="ocean">Ocean</option>
+              </select>
+              <label for="contrast-select">Contrast</label>
+              <select id="contrast-select">
+                <option value="normal">Normal</option>
+                <option value="high">High contrast</option>
+              </select>
+              <label class="check"><input id="reduce-motion" type="checkbox"> Reduce motion</label>
+              <label class="check"><input id="large-text" type="checkbox"> Larger text</label>
+            </section>
+
+            <section class="panel" id="settings-ai-mode">
+              <h3>AI mode and personality</h3>
+              <label for="personality-select">Tutor personality</label>
+              <select id="personality-select">
+                <option value="Friendly">Friendly</option>
+                <option value="Formal">Formal</option>
+                <option value="Concise">Concise</option>
+              </select>
+              <fieldset>
+                <legend>Mode</legend>
+                <label class="check"><input type="radio" name="ai-mode" value="local" checked> Local trained models (default, offline)</label>
+                <label class="check"><input type="radio" name="ai-mode" value="api"> Optional external API</label>
+              </fieldset>
+              <div id="api-settings" hidden>
+                <label for="api-base">API base URL</label>
+                <input id="api-base" type="url" placeholder="https://…/v1">
+                <label for="api-model">Model name</label>
+                <input id="api-model" type="text" placeholder="model-name">
+                <label for="api-key">API key</label>
+                <input id="api-key" type="password" autocomplete="off" placeholder="Stored locally, never committed">
+                <div class="form-actions">
+                  <button class="button secondary" id="save-api-key-button" type="button">Save key locally</button>
+                  <button class="button ghost" id="test-api-button" type="button">Test API</button>
+                </div>
+                <p class="fine-print">External mode is optional and asks permission before content leaves this laptop.</p>
+              </div>
+              <label class="check"><input id="web-permission-default" type="checkbox"> Ask before web research by default</label>
+              <button class="button primary" id="save-settings-button" type="button">Save settings</button>
+              <span id="settings-status" class="fine-print" aria-live="polite"></span>
+            </section>
+
+            <section class="panel" id="settings-models">
+              <h3>Local model status</h3>
+              <div id="model-status" class="result-box">Checking…</div>
+              <div class="form-actions">
+                <button class="button secondary" id="warmup-model-button" type="button">Warm up</button>
+                <button class="button ghost" id="unload-model-button" type="button">Unload weights</button>
+              </div>
+              <p class="fine-print">After 2 minutes idle, resident weights unload. After 7 minutes the model worker stops. After 10 minutes media pauses. The website stays up.</p>
+            </section>
+
+            <section class="panel" id="settings-data">
+              <h3>Backup and privacy</h3>
+              <p class="muted">The backup contains the database and uploaded source text. It never contains the virtual environment, raw datasets, teacher models or API keys.</p>
+              <a class="button secondary" href="/api/backup" download>Download backup ZIP</a>
+              <p class="fine-print">API keys are stored outside the database in a local secrets file that is ignored by Git.</p>
+            </section>
+
+            <section class="panel" id="settings-help">
+              <h3>Help and limitations</h3>
+              <p>The help assistant explains where features are. It cannot change your data. The tutor model is small, trained for this coursework, and can make mistakes.</p>
+              <p class="fine-print">Human visual-appeal, navigation and onboarding ratings are pending real participant testing.</p>
+            </section>
+          </div>
+        </section>
+      </main>
+    </div>
+  </div>
+
+  <div class="modal-backdrop" id="onboarding-modal" hidden>
+    <section class="modal" role="dialog" aria-modal="true" aria-labelledby="onboarding-title">
+      <p class="eyebrow">First run</p>
+      <h2 id="onboarding-title">Welcome to Rewiseorist</h2>
+      <div class="onboarding-progress" aria-hidden="true"><span id="onboarding-bar"></span></div>
+      <p id="onboarding-step-label" class="fine-print">Step 1 of 5</p>
+      <div id="onboarding-content"></div>
+      <div class="modal-actions">
+        <button class="button ghost" id="onboarding-skip" type="button">Skip tour</button>
+        <button class="button primary" id="onboarding-next" type="button">Next</button>
+      </div>
+    </section>
+  </div>
+
+  <aside class="help-drawer" id="help-drawer" aria-labelledby="help-title" hidden>
+    <div class="panel-heading"><h2 id="help-title">Help assistant</h2><button class="icon-button" id="help-close" aria-label="Close help">×</button></div>
+    <div id="help-messages" class="stack compact" aria-live="polite">
+      <p class="muted">Ask where a feature is, for example “Where do I upload a folder?”</p>
+    </div>
+    <form id="help-form" class="inline-form">
+      <label class="sr-only" for="help-input">Help question</label>
+      <input id="help-input" type="text" placeholder="Ask for help…" required>
+      <button class="button primary" type="submit">Ask</button>
+    </form>
+    <p class="fine-print">Local rule-based help. It cannot change data.</p>
+  </aside>
+
+  <div class="toast-region" id="toast-region" aria-live="polite" aria-atomic="false"></div>
+  <audio id="inactivity-media" hidden></audio>
+  <script src="/stylingscripts/app.js"></script>
+</body>
+</html>

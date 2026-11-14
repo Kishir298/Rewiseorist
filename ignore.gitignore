@@ -63,6 +63,8 @@ raw/
 datasets/
 data/raw/
 data/dataset/
+data/teacher/raw/
+data/logs/
 *.parquet
 *.arrow
 *.txt.gz
