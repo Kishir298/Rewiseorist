@@ -1,0 +1,26 @@
+[
+  {
+    "step": 10,
+    "train_loss": 8.39943,
+    "val_loss": 8.3426,
+    "lr": 7.5e-05,
+    "tokens_seen": 15360,
+    "elapsed_seconds": 6.8
+  },
+  {
+    "step": 20,
+    "train_loss": 8.05831,
+    "val_loss": 8.00938,
+    "lr": 0.00015,
+    "tokens_seen": 30720,
+    "elapsed_seconds": 16.0
+  },
+  {
+    "step": 30,
+    "train_loss": 7.66372,
+    "val_loss": 7.59396,
+    "lr": 0.000225,
+    "tokens_seen": 46080,
+    "elapsed_seconds": 26.2
+  }
+]

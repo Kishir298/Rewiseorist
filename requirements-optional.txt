@@ -1,0 +1,3 @@
+# Optional integrations. The core app works without these.
+# OCR requires the Tesseract executable to be installed separately.
+pytesseract>=0.3.13,<1

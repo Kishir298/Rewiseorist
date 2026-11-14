@@ -1,0 +1,14 @@
+{
+  "language_model": {
+    "version": "rewiseorist-lm-pilot",
+    "parameters": 2956416,
+    "context_length": 128,
+    "vocab_size": 6000,
+    "tokens_seen": 46080,
+    "best_val_loss": 7.59396,
+    "best_val_perplexity": 1986.156,
+    "training_seconds": 26.3,
+    "dataset": "TinyStoriesV2-GPT4 subset",
+    "licence": "CDLA-Sharing-1.0"
+  }
+}

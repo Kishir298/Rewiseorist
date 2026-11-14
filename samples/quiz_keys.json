@@ -1,0 +1,433 @@
+{
+  "fractions": [
+    {
+      "id": "fractions-q1",
+      "type": "mcq",
+      "question": "Which fraction is 18/24 fully simplified?",
+      "options": [
+        "2/3",
+        "3/4",
+        "6/8",
+        "9/12"
+      ],
+      "answer": "3/4",
+      "hint": "Find the highest number that divides both 18 and 24.",
+      "explanation": "The highest common factor of 18 and 24 is 6. Dividing both parts by 6 gives 18/24 = 3/4. The fractions 6/8 and 9/12 are equivalent but not fully simplified.",
+      "difficulty": "easy",
+      "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q2",
+      "type": "mcq",
+      "question": "Work out 2/3 + 1/4. Choose the correct answer.",
+      "options": [
+        "3/7",
+        "3/12",
+        "11/12",
+        "8/12"
+      ],
+      "answer": "11/12",
+      "hint": "Write both fractions with a common denominator of 12.",
+      "explanation": "2/3 = 8/12 and 1/4 = 3/12. Adding the numerators gives 8/12 + 3/12 = 11/12. The denominator stays the same.",
+      "difficulty": "medium",
+      "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q3",
+      "type": "short",
+      "question": "Work out 3/4 divided by 2/5. Give your answer as a mixed number in its simplest form.",
+      "answer": "1 7/8",
+      "accepted_keywords": [
+        "15/8"
+      ],
+      "hint": "Dividing by 2/5 is the same as multiplying by 5/2.",
+      "explanation": "3/4 divided by 2/5 equals 3/4 multiplied by 5/2, which is 15/8. As a mixed number, 15 divided by 8 is 1 remainder 7, so the answer is 1 7/8.",
+      "difficulty": "hard",
+      "source": "fractions.md"
+    }
+  ],
+  "forces": [
+    {
+      "id": "forces-q1",
+      "type": "mcq",
+      "question": "Which of these is a vector quantity?",
+      "options": [
+        "Mass",
+        "Speed",
+        "Force",
+        "Time"
+      ],
+      "answer": "Force",
+      "hint": "A vector needs both a size and a direction.",
+      "explanation": "Force has both magnitude and direction, so it is a vector. Mass, speed and time have size only, which makes them scalars.",
+      "difficulty": "easy",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q2",
+      "type": "mcq",
+      "question": "A box is pushed with 12 N to the right while friction acts with 5 N to the left. What is the resultant force?",
+      "options": [
+        "5 N to the left",
+        "7 N to the right",
+        "12 N to the right",
+        "17 N to the right"
+      ],
+      "answer": "7 N to the right",
+      "hint": "Subtract the smaller force from the larger one and keep the direction of the larger force.",
+      "explanation": "The forces act in opposite directions, so subtract: 12 N - 5 N = 7 N. The larger force points right, so the resultant force is 7 N to the right.",
+      "difficulty": "medium",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q3",
+      "type": "short",
+      "question": "A resultant force of 60 N acts on a box and produces an acceleration of 4 m/s^2. Calculate the mass of the box. Include the unit.",
+      "answer": "15 kg",
+      "accepted_keywords": [
+        "15"
+      ],
+      "hint": "Rearrange F = ma to make mass the subject.",
+      "explanation": "F = ma, so m = F / a = 60 / 4 = 15 kg. Mass is measured in kilograms.",
+      "difficulty": "hard",
+      "source": "forces.md"
+    }
+  ],
+  "chemical-bonding": [
+    {
+      "id": "chemical-bonding-q1",
+      "type": "mcq",
+      "question": "Which type of bonding involves the transfer of electrons from a metal atom to a non-metal atom?",
+      "options": [
+        "Ionic bonding",
+        "Covalent bonding",
+        "Metallic bonding",
+        "Hydrogen bonding"
+      ],
+      "answer": "Ionic bonding",
+      "hint": "Think about charged particles called ions.",
+      "explanation": "In ionic bonding, a metal atom loses electrons and a non-metal atom gains them. The oppositely charged ions formed are held together by electrostatic attraction.",
+      "difficulty": "easy",
+      "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q2",
+      "type": "mcq",
+      "question": "Why can solid sodium chloride not conduct electricity, while molten sodium chloride can?",
+      "options": [
+        "Solid sodium chloride has no charged particles at all.",
+        "Molten sodium chloride contains free electrons.",
+        "Ions are fixed in the solid lattice but are free to move when molten.",
+        "Melting sodium chloride turns its ions into atoms."
+      ],
+      "answer": "Ions are fixed in the solid lattice but are free to move when molten.",
+      "hint": "Conduction requires charged particles that are free to move.",
+      "explanation": "In the solid, ions are held in a giant ionic lattice and cannot move. Melting releases the ions so they can carry charge through the liquid.",
+      "difficulty": "medium",
+      "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q3",
+      "type": "short",
+      "question": "Explain why diamond has a very high melting point. Refer to its structure and bonding in your answer.",
+      "answer": "Diamond is a giant covalent structure in which each carbon atom forms four strong covalent bonds. A large amount of energy is needed to break these many strong bonds, so the melting point is very high.",
+      "accepted_keywords": [
+        "giant covalent",
+        "covalent bonds",
+        "energy"
+      ],
+      "hint": "Diamond is not a small molecule; think about a network of strong bonds.",
+      "explanation": "Each carbon atom in diamond is covalently bonded to four others, forming a giant covalent lattice. Melting requires many strong covalent bonds to be broken, which needs a large amount of energy.",
+      "difficulty": "hard",
+      "source": "chemical-bonding.md"
+    }
+  ],
+  "indices": [
+    {
+      "id": "indices-q1",
+      "type": "mcq",
+      "question": "Simplify x^5 multiplied by x^2.",
+      "options": [
+        "x^7",
+        "x^10",
+        "x^3",
+        "2x^7"
+      ],
+      "answer": "x^7",
+      "hint": "When multiplying powers with the same base, add the indices.",
+      "explanation": "x^5 multiplied by x^2 equals x^(5+2), which is x^7. The base stays the same and the powers add.",
+      "difficulty": "easy",
+      "source": "indices.md"
+    },
+    {
+      "id": "indices-q2",
+      "type": "mcq",
+      "question": "What is the value of 2^-3?",
+      "options": [
+        "-8",
+        "-6",
+        "1/8",
+        "1/6"
+      ],
+      "answer": "1/8",
+      "hint": "A negative index means the reciprocal of the positive power.",
+      "explanation": "2^-3 = 1/(2^3) = 1/8. The negative sign makes the power a reciprocal; it does not make the answer negative.",
+      "difficulty": "medium",
+      "source": "indices.md"
+    },
+    {
+      "id": "indices-q3",
+      "type": "short",
+      "question": "Work out 16^(3/4). Show your reasoning.",
+      "answer": "8",
+      "accepted_keywords": [
+        "8"
+      ],
+      "hint": "A power of 3/4 means take the fourth root first, then cube the result.",
+      "explanation": "16^(1/4) = 2 because 2^4 = 16. Then 2^3 = 8, so 16^(3/4) = 8.",
+      "difficulty": "hard",
+      "source": "indices.md"
+    }
+  ],
+  "electric-circuits": [
+    {
+      "id": "electric-circuits-q1",
+      "type": "mcq",
+      "question": "Which unit is used to measure electric current?",
+      "options": [
+        "Volt (V)",
+        "Ohm (Ω)",
+        "Ampere (A)",
+        "Coulomb (C)"
+      ],
+      "answer": "Ampere (A)",
+      "hint": "Current is the rate of flow of charge.",
+      "explanation": "Current is measured in amperes, often shortened to amps (A). Volts measure potential difference, ohms measure resistance and coulombs measure charge.",
+      "difficulty": "easy",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q2",
+      "type": "mcq",
+      "question": "Two identical lamps are connected in parallel to a 6 V battery. What is the potential difference across each lamp?",
+      "options": [
+        "3 V",
+        "6 V",
+        "12 V",
+        "0 V"
+      ],
+      "answer": "6 V",
+      "hint": "In a parallel circuit, each branch is connected directly across the supply.",
+      "explanation": "In parallel, the potential difference across each branch equals the supply voltage, so each lamp receives 6 V. The current splits between the branches instead.",
+      "difficulty": "medium",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q3",
+      "type": "short",
+      "question": "A resistor has a potential difference of 6 V across it and a current of 0.5 A through it. Calculate its resistance. Include the unit.",
+      "answer": "12 ohms",
+      "accepted_keywords": [
+        "12"
+      ],
+      "hint": "Use R = V / I.",
+      "explanation": "R = V / I = 6 / 0.5 = 12 ohms. Dividing by 0.5 is the same as multiplying by 2.",
+      "difficulty": "hard",
+      "source": "electric-circuits.md"
+    }
+  ],
+  "industrial-revolution": [
+    {
+      "id": "industrial-revolution-q1",
+      "type": "mcq",
+      "question": "Which source of power was most important for driving factories and railways during the Industrial Revolution?",
+      "options": [
+        "Wind",
+        "Steam",
+        "Electricity",
+        "Nuclear energy"
+      ],
+      "answer": "Steam",
+      "hint": "Think about burning coal to heat water.",
+      "explanation": "Coal-fired steam engines powered textile mills, mines, trains and ships. Electricity and nuclear power were not available in the eighteenth and nineteenth centuries.",
+      "difficulty": "easy",
+      "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q2",
+      "type": "mcq",
+      "question": "Which change was a direct result of the growth of the railway network in Britain?",
+      "options": [
+        "Goods and people could be transported faster and more cheaply.",
+        "Factories stopped using coal.",
+        "The population moved from towns to the countryside.",
+        "Hand tools replaced machines in factories."
+      ],
+      "answer": "Goods and people could be transported faster and more cheaply.",
+      "hint": "Consider how transport affects trade and travel.",
+      "explanation": "Railways cut journey times and transport costs, helping goods reach wider markets and encouraging travel and commuting. They did not reverse industrialisation.",
+      "difficulty": "medium",
+      "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q3",
+      "type": "short",
+      "question": "Explain how rapid urbanisation helped diseases such as cholera spread during the Industrial Revolution.",
+      "answer": "Rapid urbanisation led to overcrowded housing, often with several families sharing one house and no clean water. This helped diseases such as cholera spread quickly.",
+      "accepted_keywords": [
+        "overcrowded",
+        "water",
+        "cholera"
+      ],
+      "hint": "Think about where factory workers lived and what sanitation was like.",
+      "explanation": "Towns grew faster than housing and sewers could be built. Overcrowded housing and contaminated water allowed cholera to spread quickly.",
+      "difficulty": "hard",
+      "source": "industrial-revolution.md"
+    }
+  ],
+  "algebra": [
+    {
+      "id": "algebra-q1",
+      "type": "mcq",
+      "question": "Simplify 7a - 2a + 3a.",
+      "options": [
+        "8a",
+        "12a",
+        "2a",
+        "8"
+      ],
+      "answer": "8a",
+      "hint": "Combine terms that have the same letter.",
+      "explanation": "7a - 2a = 5a, and 5a + 3a = 8a. The letter a stays because the terms are alike.",
+      "difficulty": "easy",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q2",
+      "type": "mcq",
+      "question": "Expand (x + 2)(x + 5).",
+      "options": [
+        "x^2 + 7x + 10",
+        "x^2 + 10x + 7",
+        "x^2 + 7x + 7",
+        "x^2 + 3x + 10"
+      ],
+      "answer": "x^2 + 7x + 10",
+      "hint": "Multiply each term in the first bracket by each term in the second.",
+      "explanation": "x(x + 5) = x^2 + 5x and 2(x + 5) = 2x + 10. Adding these gives x^2 + 7x + 10.",
+      "difficulty": "medium",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q3",
+      "type": "short",
+      "question": "Solve 4(x - 3) = 2x + 6.",
+      "answer": "x = 9",
+      "accepted_keywords": [
+        "9"
+      ],
+      "hint": "Expand the bracket first, then collect the x terms on one side.",
+      "explanation": "Expanding gives 4x - 12 = 2x + 6. Subtract 2x from both sides: 2x - 12 = 6. Add 12: 2x = 18. Divide by 2: x = 9.",
+      "difficulty": "hard",
+      "source": "algebra.md"
+    }
+  ],
+  "photosynthesis": [
+    {
+      "id": "photosynthesis-q1",
+      "type": "mcq",
+      "question": "Which gas is taken in by a plant during photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide",
+      "hint": "Look at the word equation for photosynthesis.",
+      "explanation": "Plants take in carbon dioxide through their stomata and release oxygen as a product. Carbon dioxide and water are the reactants.",
+      "difficulty": "easy",
+      "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q2",
+      "type": "mcq",
+      "question": "A plant is given plenty of light and carbon dioxide, but the temperature is raised well above its optimum. What happens to the rate of photosynthesis?",
+      "options": [
+        "It keeps increasing indefinitely.",
+        "It falls because enzymes are denatured.",
+        "It stays exactly the same.",
+        "It rises because more heat means more chlorophyll."
+      ],
+      "answer": "It falls because enzymes are denatured.",
+      "hint": "Photosynthesis depends on enzyme-controlled reactions.",
+      "explanation": "Enzymes have an optimum temperature. Above it, their active sites change shape and the enzymes denature, so the rate falls. Extra light and carbon dioxide cannot prevent this.",
+      "difficulty": "medium",
+      "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q3",
+      "type": "short",
+      "question": "Explain how the large, flat shape of a leaf helps photosynthesis.",
+      "answer": "A leaf is thin and flat, giving a large surface area to absorb light and allowing carbon dioxide to diffuse quickly to the cells.",
+      "accepted_keywords": [
+        "surface area",
+        "light",
+        "thin"
+      ],
+      "hint": "Think about light absorption and gas exchange.",
+      "explanation": "A large, thin surface maximises light capture and shortens diffusion distances, so carbon dioxide reaches the cells quickly.",
+      "difficulty": "hard",
+      "source": "photosynthesis.md"
+    }
+  ],
+  "particle-model": [
+    {
+      "id": "particle-model-q1",
+      "type": "mcq",
+      "question": "How are particles arranged in a gas?",
+      "options": [
+        "In a fixed, regular lattice",
+        "Close together but randomly arranged",
+        "Far apart and moving randomly",
+        "Closely packed and only vibrating"
+      ],
+      "answer": "Far apart and moving randomly",
+      "hint": "Gases fill their container.",
+      "explanation": "Gas particles are far apart, arranged randomly and move quickly in all directions. This explains why gases have no fixed shape or volume and can be compressed.",
+      "difficulty": "easy",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q2",
+      "type": "mcq",
+      "question": "Why does diffusion happen faster at a higher temperature?",
+      "options": [
+        "Particles have more kinetic energy and move faster.",
+        "Particles become smaller.",
+        "The particles stop colliding.",
+        "The particles turn into a liquid."
+      ],
+      "answer": "Particles have more kinetic energy and move faster.",
+      "hint": "Link temperature to the movement of particles.",
+      "explanation": "Heating transfers energy to the particles, increasing their kinetic energy and speed. Faster random movement spreads particles through a space more quickly.",
+      "difficulty": "medium",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q3",
+      "type": "short",
+      "question": "Explain why the temperature stays constant while a solid is melting, even though energy is still being supplied.",
+      "answer": "The energy is used to overcome the forces between particles and change the solid into a liquid, rather than increasing the particles' kinetic energy, so the temperature does not rise.",
+      "accepted_keywords": [
+        "energy",
+        "forces",
+        "kinetic"
+      ],
+      "hint": "Think about what the energy is doing to the arrangement of particles.",
+      "explanation": "During melting, energy increases the potential energy of the particles by overcoming attractive forces. It does not increase their average kinetic energy, so the thermometer reading stays the same until all the solid has melted.",
+      "difficulty": "hard",
+      "source": "particle-model.md"
+    }
+  ]
+}
