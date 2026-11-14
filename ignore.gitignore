@@ -49,9 +49,14 @@ models/*.joblib
 models/*.pkl
 models/*.npz
 models/*.npy
+models/*.gguf
 models/checkpoints/
 models/tokenizer.json
 models/config.json
+models/language_model_config.json
+
+# Teacher runtime and teacher models (development only, never shipped in the app)
+teacher_models/
 
 # Raw datasets and downloaded corpora (not redistributed)
 raw/

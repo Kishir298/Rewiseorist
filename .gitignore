@@ -45,9 +45,13 @@ models/*.joblib
 models/*.pkl
 models/*.npz
 models/*.npy
+models/*.gguf
 models/checkpoints/
 models/tokenizer.json
 models/config.json
+models/language_model_config.json
+
+teacher_models/
 
 raw/
 datasets/
