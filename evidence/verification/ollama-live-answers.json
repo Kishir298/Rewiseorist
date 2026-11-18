@@ -1,0 +1,19 @@
+{
+  "model": "smollm2:360m",
+  "recorded_at": "2026-11-18T05:17:06Z",
+  "answerable": {
+    "question": "According to the uploaded notes, what is the atomic number of rewisium?",
+    "answer": "According to the uploaded notes, the atomic number of rewisium is 137.\nSource: rewisium-notes.md | rewisium-notes.md1",
+    "latency_s": 0.77,
+    "verified": true,
+    "sources": [
+      "rewisium-notes.md"
+    ]
+  },
+  "unsupported": {
+    "question": "Who won the FIFA World Cup in 1998 and what was the final score?",
+    "answer": "The FIFA World Cup in 1998 was won by the nation of Brazil. The final score was 7-0.",
+    "latency_s": 0.89,
+    "verified": false
+  }
+}
