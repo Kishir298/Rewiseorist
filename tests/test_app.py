@@ -44,17 +44,61 @@ class FakeRuntime:
         return {"stopped": True}
 
 
+class FakeOllama:
+    """Stands in for the Ollama SmolLM2 revision client."""
+
+    def __init__(self):
+        self.generated = 0
+        self.warmed = 0
+        self.unloaded = 0
+        self.raise_on_generate = None
+        self.answer = "Friction is a contact force that opposes motion.\nSource: forces.md | sample"
+
+    def status(self):
+        return {"available": True, "model_present": True, "model": "smollm2:360m",
+                "label": "SmolLM2 360M", "base_url": "http://127.0.0.1:11434",
+                "num_ctx": 2048, "max_tokens": 200, "temperature": 0.2,
+                "ollama_required": True, "cloud_required": False, "error": None}
+
+    def generate_revision(self, question, sources, personality="Friendly"):
+        self.generated += 1
+        if self.raise_on_generate is not None:
+            raise self.raise_on_generate
+        return {
+            "text": self.answer,
+            "sources": list(sources[:3]),
+            "verified": bool(sources),
+            "model_version": "smollm2:360m",
+            "model": {"name": "SmolLM2 360M", "version": "smollm2:360m",
+                      "provider": "ollama", "local": True},
+            "grounding": {"status": "verified" if sources else "no-source"},
+        }
+
+    def warmup(self):
+        self.warmed += 1
+        return {"warm": True, "model": "smollm2:360m"}
+
+    def unload(self):
+        self.unloaded += 1
+        return {"unloaded": True, "message": "SmolLM2 360M released from memory."}
+
+
 @pytest.fixture()
 def client(tmp_path):
     runtime = FakeRuntime()
+    ollama = FakeOllama()
     app = app_module.create_app({
         "TESTING": True,
         "DATABASE": str(tmp_path / "app.db"),
         "START_INACTIVITY_THREAD": False,
         "INACTIVITY_THRESHOLDS": {"warmup": 2, "worker": 7, "media": 10},
-    }, runtime_override=runtime)
+    }, runtime_override=runtime, ollama_override=ollama)
     with app.test_client() as test_client:
         yield test_client, runtime, tmp_path
+
+
+def fake_ollama(client):
+    return client.application.extensions["ollama"]
 
 
 def json_of(response):
@@ -125,7 +169,8 @@ def test_full_study_flow(client):
     assert accepted["plan"]["status"] == "accepted"
     progress = json_of(client.get(f"/api/progress?profile_id={profile['id']}&period=all"))
     assert progress["progress"]["attempts"] >= 1
-    assert runtime.generated >= 1
+    assert fake_ollama(client).generated >= 1
+    assert runtime.generated == 0
 
 
 def test_classifier_unknown_and_fake(client):

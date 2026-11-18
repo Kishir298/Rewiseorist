@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Rewiseorist — a local, offline revision tutor with a from-scratch language model.">
+  <meta name="description" content="Rewiseorist — a local revision tutor using the pretrained SmolLM2 360M model through Ollama, with checked quizzes and progress tracking.">
   <title>Rewiseorist — revise with your own local tutor</title>
   <link rel="stylesheet" href="/stylingscripts/style.css">
 </head>
@@ -48,9 +48,9 @@
         <section class="page is-active" id="page-home" aria-labelledby="home-heading">
           <div class="hero panel">
             <div>
-              <p class="eyebrow">Your own model, on this laptop</p>
+              <p class="eyebrow">Your local model, on this laptop</p>
               <h2 id="home-heading">Turn notes into a revision conversation.</h2>
-              <p class="lede">Upload your class notes, ask a question, practise with checked quizzes, and build a plan that fits your week. No cloud account, no paywall, no Ollama.</p>
+              <p class="lede">Upload your class notes, ask a question, practise with checked quizzes, and build a plan that fits your week. No cloud account, no paywall, no data leaves this laptop.</p>
               <form class="quick-prompt" id="home-prompt-form">
                 <label for="home-prompt">What do you want to revise?</label>
                 <div class="composer-row">
@@ -343,7 +343,7 @@
               </select>
               <fieldset>
                 <legend>Mode</legend>
-                <label class="check"><input type="radio" name="ai-mode" value="local" checked> Local trained models (default, offline)</label>
+                <label class="check"><input type="radio" name="ai-mode" value="local" checked> Local model via Ollama (default, offline)</label>
                 <label class="check"><input type="radio" name="ai-mode" value="api"> Optional external API</label>
               </fieldset>
               <div id="api-settings" hidden>
@@ -383,7 +383,7 @@
 
             <section class="panel" id="settings-help">
               <h3>Help and limitations</h3>
-              <p>The help assistant explains where features are. It cannot change your data. The tutor model is small, trained for this coursework, and can make mistakes.</p>
+              <p>The help assistant explains where features are. It cannot change your data. The tutor model is the small pretrained SmolLM2 360M running through Ollama on this laptop, and it can make mistakes.</p>
               <p class="fine-print">Human visual-appeal, navigation and onboarding ratings are pending real participant testing.</p>
             </section>
           </div>

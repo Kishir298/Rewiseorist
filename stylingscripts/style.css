@@ -307,6 +307,7 @@ legend { font-weight: 800; padding: 0 5px; }
 .message .message-meta { display: flex; gap: 8px; flex-wrap: wrap; color: var(--muted); font-size: .72rem; margin-bottom: 5px; }
 .message p { margin-bottom: 6px; white-space: pre-wrap; overflow-wrap: anywhere; }
 .source-chip { display: inline-block; margin: 3px 4px 0 0; padding: 2px 7px; border: 1px solid var(--border); border-radius: 999px; background: var(--surface-2); font-size: .72rem; }
+.unverified-chip { display: inline-block; margin-left: 6px; padding: 1px 6px; border: 1px solid var(--border); border-radius: 999px; background: var(--warning-soft); color: var(--warning); font-size: .7rem; }
 .chat-composer { margin-top: 10px; }
 .chat-composer textarea { min-height: 78px; }
 .composer-actions { margin-top: 8px; }

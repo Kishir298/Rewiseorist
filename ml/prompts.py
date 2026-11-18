@@ -79,6 +79,37 @@ def build_performance_prompt(features: dict, history_summary: str) -> str:
     )
 
 
+def build_ollama_revision_messages(question: str, sources: Sequence[dict],
+                                   personality: str = "Friendly",
+                                   max_sources: int = 3,
+                                   max_chars: int = 600) -> list[dict]:
+    """Short chat messages for the Ollama SmolLM2 revision assistant.
+
+    SmolLM2 360M has a 2048-token context, so only the most relevant
+    retrieved passages are included and each is capped in length.
+    """
+    instruction = PERSONALITY_INSTRUCTIONS.get(personality, PERSONALITY_INSTRUCTIONS["Friendly"])
+    system = (
+        "You are Rewiseorist, a local revision tutor. " + instruction +
+        " Answer only from the numbered sources. If they do not contain the answer, "
+        "say clearly that the uploaded material does not contain it. "
+        "Write 2 to 3 short sentences and end with one line: "
+        "Source: <file> | <section>."
+    )
+    parts: list[str] = []
+    for index, source in enumerate(sources[:max_sources], 1):
+        name = source.get("original_name") or source.get("file") or "source"
+        ref = source.get("source_ref") or source.get("page_ref") or ""
+        text = re.sub(r"\s+", " ", str(source.get("text", ""))).strip()[:max_chars]
+        parts.append(f"[{index}] {name} | {ref}\n{text}")
+    source_block = "\n".join(parts) or "No uploaded source is available."
+    user = f"Question: {question.strip()}\n\nSources:\n{source_block}"
+    return [
+        {"role": "system", "content": system},
+        {"role": "user", "content": user},
+    ]
+
+
 CHAT_MARKER_RE = re.compile(r"^<user>\s*|\s*<assistant>\s*$", re.IGNORECASE)
 
 

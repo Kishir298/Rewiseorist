@@ -24,6 +24,16 @@ from werkzeug.exceptions import RequestEntityTooLarge
 import resources
 import storage
 import study_tools
+from ml.ollama_client import (
+    MODEL_NAME as OLLAMA_MODEL_NAME,
+    OllamaClient,
+    OllamaEmptyAnswer,
+    OllamaError,
+    OllamaHTTPError,
+    OllamaModelMissing,
+    OllamaTimeout,
+    OllamaUnavailable,
+)
 from ml.prompts import build_revision_prompt, clean_teacher_answer, extract_citation, strip_chat_markers
 from ml.runtime import ModelRuntime, ModelUnavailable
 
@@ -125,6 +135,10 @@ def _db() -> Path:
 
 def _runtime() -> ModelRuntime:
     return current_app.extensions["runtime"]
+
+
+def _ollama() -> OllamaClient:
+    return current_app.extensions["ollama"]
 
 
 def _inactivity() -> InactivityManager:
@@ -352,7 +366,8 @@ def _external_revision(settings: dict, api_key: str, question: str,
     }
 
 
-def create_app(test_config: dict | None = None, runtime_override: ModelRuntime | None = None) -> Flask:
+def create_app(test_config: dict | None = None, runtime_override: ModelRuntime | None = None,
+               ollama_override: OllamaClient | None = None) -> Flask:
     app = Flask(__name__, static_folder=None)
     app.config.update(
         SECRET_KEY=os.environ.get("REWISEORIST_SECRET", secrets.token_hex(24)),
@@ -360,14 +375,23 @@ def create_app(test_config: dict | None = None, runtime_override: ModelRuntime |
         MAX_CONTENT_LENGTH=220 * 1024 * 1024,
         JSON_SORT_KEYS=False,
         START_INACTIVITY_THREAD=True,
+        # Revision chat: pretrained SmolLM2 360M through Ollama's local API.
+        OLLAMA_BASE_URL="http://127.0.0.1:11434",
+        OLLAMA_MODEL=OLLAMA_MODEL_NAME,
+        OLLAMA_NUM_CTX=2048,
+        OLLAMA_MAX_TOKENS=200,
+        OLLAMA_TEMPERATURE=0.2,
+        OLLAMA_READ_TIMEOUT=90.0,
     )
     if test_config:
         app.config.update(test_config)
     Path(app.config["DATABASE"]).parent.mkdir(parents=True, exist_ok=True)
     storage.init_db(app.config["DATABASE"])
     runtime = runtime_override or ModelRuntime(ROOT / "models")
+    ollama = ollama_override or OllamaClient.from_config(app.config)
     manager = InactivityManager(runtime, app.config["DATABASE"], app.config.get("INACTIVITY_THRESHOLDS"))
     app.extensions["runtime"] = runtime
+    app.extensions["ollama"] = ollama
     app.extensions["inactivity"] = manager
     app.config["APP_VERSION"] = APP_VERSION
     if app.config.get("START_INACTIVITY_THREAD") and not app.config.get("TESTING"):
@@ -398,7 +422,7 @@ def create_app(test_config: dict | None = None, runtime_override: ModelRuntime |
     @app.get("/api/health")
     def health():
         return _ok(app=APP_VERSION, database=str(_db()), runtime=_runtime().status(),
-                   inactivity=_inactivity().thresholds)
+                   ollama=_ollama().status(), inactivity=_inactivity().thresholds)
 
     @app.get("/api/profiles")
     def profiles():
@@ -621,14 +645,24 @@ def create_app(test_config: dict | None = None, runtime_override: ModelRuntime |
                 return _error(f"The external API could not answer: {exc}", 503, sources=sources)
         else:
             try:
-                result = _runtime().generate_revision(message, sources, personality)
-            except ModelUnavailable as exc:
+                result = _ollama().generate_revision(message, sources, personality)
+            except OllamaModelMissing as exc:
+                return _error(str(exc), 503, sources=sources)
+            except OllamaUnavailable as exc:
+                return _error(str(exc), 503, sources=sources)
+            except OllamaTimeout as exc:
+                return _error(str(exc), 504, sources=sources)
+            except OllamaEmptyAnswer as exc:
+                return _error(str(exc), 502, sources=sources)
+            except OllamaHTTPError as exc:
+                return _error(str(exc), 502, sources=sources)
+            except OllamaError as exc:
                 return _error(str(exc), 503, sources=sources)
             except Exception as exc:
-                return _error(f"The local model could not answer: {exc}", 503, sources=sources)
+                return _error(f"Revision chat could not answer: {exc}", 503, sources=sources)
         answer = str(result.get("text", "")).strip()
         if not answer:
-            return _error("The local model returned an empty answer. Try rephrasing.", 503, sources=sources)
+            return _error("The revision model returned an empty answer. Try rephrasing.", 502, sources=sources)
         assistant = storage.add_message(
             session_id, "assistant", answer, _db(), personality=personality,
             model_version=str(result.get("model_version", "")),
@@ -820,7 +854,22 @@ def create_app(test_config: dict | None = None, runtime_override: ModelRuntime |
         try:
             result = _runtime().classify_performance(features)
         except ModelUnavailable as exc:
-            return _error(str(exc), 503, features=features)
+            if "missing" not in str(exc).lower():
+                return _error(str(exc), 503, features=features)
+            # Trained classifier files are absent in this delivery: fall back to
+            # the transparent rule baseline and label it honestly.
+            from ml.train_character import rule_label
+            category = rule_label(features)
+            reason = (
+                f"Rule-based fallback (trained classifier files are absent): "
+                f"mean accuracy {float(features.get('mean_accuracy', 0)):.0%}, "
+                f"hint rate {float(features.get('hint_rate', 0)):.0%}, "
+                f"{features.get('distinct_questions', 0)} distinct checked questions. "
+                f"This is the documented baseline, not the trained model."
+            )
+            payload = {**features, "topic_id": int(topic_id)}
+            return _ok(category=category, reason=reason, features=payload,
+                       model_version="rule-fallback-v1", fallback=True, confidence=None)
         except Exception as exc:
             return _error(f"The performance model could not classify this history: {exc}", 503,
                           features=features)
@@ -1028,15 +1077,36 @@ def create_app(test_config: dict | None = None, runtime_override: ModelRuntime |
     # ------------------------------------------------------------------
     @app.get("/api/models/status")
     def model_status():
-        return _ok(runtime=_runtime().status())
+        return _ok(runtime=_runtime().status(), ollama=_ollama().status())
 
     @app.post("/api/models/warmup")
     def model_warmup():
-        return _ok(result=_runtime().warmup(), runtime=_runtime().status())
+        results: dict[str, Any] = {}
+        try:
+            results["ollama"] = _ollama().warmup()
+        except OllamaError as exc:
+            results["ollama"] = {"warm": False, "error": str(exc)}
+        try:
+            results["classifier"] = _runtime().warmup()
+        except ModelUnavailable as exc:
+            results["classifier"] = {
+                "warm": False, "error": str(exc),
+                "note": "Trained classifier files are absent; the rule-based fallback is used.",
+            }
+        return _ok(result=results, runtime=_runtime().status(), ollama=_ollama().status())
 
     @app.post("/api/models/unload")
     def model_unload():
-        return _ok(result=_runtime().unload(), runtime=_runtime().status())
+        results: dict[str, Any] = {}
+        try:
+            results["ollama"] = _ollama().unload()
+        except OllamaError as exc:
+            results["ollama"] = {"unloaded": False, "error": str(exc)}
+        try:
+            results["classifier"] = _runtime().unload()
+        except ModelUnavailable as exc:
+            results["classifier"] = {"unloaded": True, "error": str(exc)}
+        return _ok(result=results, runtime=_runtime().status(), ollama=_ollama().status())
 
     @app.post("/api/activity")
     def activity():
