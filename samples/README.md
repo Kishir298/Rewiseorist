@@ -22,11 +22,11 @@ The corpus is **not personal data**. It does not describe or come from a real st
 
 Each topic note is 350–600 words and includes headings, definitions, worked examples where they suit the topic, and a short **Key facts** section. The notes are written in plain English for a Year 10/GCSE-style learner.
 
-`quiz_keys.json` contains three questions for every topic: 27 questions in total. Each topic has two multiple-choice questions and one short-answer question, with a spread of easy, medium and hard difficulty.
+`quiz_keys.json` contains ten questions for every topic: 90 questions in total. Each topic has five multiple-choice questions and five short-answer questions, spread across easy, medium and hard difficulty.
 
 ## Quiz key format
 
-The JSON file is an object whose keys are topic slugs. Each key maps to an array of exactly three question objects.
+The JSON file is an object whose keys are topic slugs. Each key maps to an array of exactly ten question objects.
 
 | Field | Required for | Meaning |
 | --- | --- | --- |

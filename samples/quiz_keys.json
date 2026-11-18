@@ -44,6 +44,112 @@
       "explanation": "3/4 divided by 2/5 equals 3/4 multiplied by 5/2, which is 15/8. As a mixed number, 15 divided by 8 is 1 remainder 7, so the answer is 1 7/8.",
       "difficulty": "hard",
       "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q4",
+      "type": "mcq",
+      "question": "What is the fraction 3/8 written as a decimal?",
+      "options": [
+        "0.375",
+        "0.38",
+        "0.83",
+        "3.8"
+      ],
+      "answer": "0.375",
+      "hint": "Divide the numerator by the denominator.",
+      "explanation": "3 divided by 8 is 0.375. Multiplying by 100 gives the percentage 37.5%, so 3/8 = 0.375 = 37.5%.",
+      "difficulty": "easy",
+      "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q5",
+      "type": "mcq",
+      "question": "Which fraction is larger, 3/4 or 5/7?",
+      "options": [
+        "3/4",
+        "5/7",
+        "They are equal",
+        "There is not enough information"
+      ],
+      "answer": "3/4",
+      "hint": "Write both fractions over the same denominator, then compare the numerators.",
+      "explanation": "Using a common denominator of 28: 3/4 = 21/28 and 5/7 = 20/28. Since 21/28 is greater than 20/28, 3/4 is the larger fraction. Cross-multiplying gives the same result: 3 x 7 = 21 and 5 x 4 = 20.",
+      "difficulty": "medium",
+      "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q6",
+      "type": "mcq",
+      "question": "What is a fraction called when the numerator is smaller than the denominator?",
+      "options": [
+        "A proper fraction",
+        "An improper fraction",
+        "A mixed number",
+        "A reciprocal"
+      ],
+      "answer": "A proper fraction",
+      "hint": "Think about 3/8, where the top number is smaller than the bottom number.",
+      "explanation": "A proper fraction has a smaller numerator than its denominator, such as 3/8. An improper fraction has a numerator equal to or larger than the denominator, and a mixed number combines a whole number with a fraction, such as 2 1/2.",
+      "difficulty": "easy",
+      "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q7",
+      "type": "short",
+      "question": "Work out 2/5 of 60.",
+      "answer": "24",
+      "accepted_keywords": [
+        "24",
+        "60"
+      ],
+      "hint": "Divide by the denominator first, then multiply by the numerator.",
+      "explanation": "To find a fraction of an amount, divide by the denominator and multiply by the numerator: 60 / 5 = 12, then 12 x 2 = 24. So 2/5 of 60 = 24.",
+      "difficulty": "medium",
+      "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q8",
+      "type": "short",
+      "question": "Work out 3/5 multiplied by 10/9. Give your answer in its simplest form.",
+      "answer": "2/3",
+      "accepted_keywords": [
+        "2/3",
+        "30/45"
+      ],
+      "hint": "Multiply the numerators together and the denominators together, then simplify.",
+      "explanation": "3/5 x 10/9 = (3 x 10)/(5 x 9) = 30/45. The highest common factor of 30 and 45 is 15, so dividing both parts by 15 gives 2/3. Cancelling before multiplying gives the same result.",
+      "difficulty": "hard",
+      "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q9",
+      "type": "short",
+      "question": "Work out 1 1/2 + 2 3/4 and give your answer as a mixed number.",
+      "answer": "4 1/4",
+      "accepted_keywords": [
+        "17/4",
+        "4 1/4"
+      ],
+      "hint": "Convert both mixed numbers into improper fractions first, then add them.",
+      "explanation": "1 1/2 = 3/2 and 2 3/4 = 11/4. Writing 3/2 as 6/4 gives 6/4 + 11/4 = 17/4. Converting back, 17 divided by 4 is 4 remainder 1, so the answer is 4 1/4.",
+      "difficulty": "hard",
+      "source": "fractions.md"
+    },
+    {
+      "id": "fractions-q10",
+      "type": "short",
+      "question": "Explain how to convert a fraction into a percentage, using 3/8 as your example.",
+      "answer": "Divide the numerator by the denominator to get a decimal, then multiply by 100. For 3/8 this gives 0.375, and 0.375 x 100 = 37.5%.",
+      "accepted_keywords": [
+        "decimal",
+        "multiply",
+        "100",
+        "37.5"
+      ],
+      "hint": "Two steps: one division, then one multiplication.",
+      "explanation": "Divide 3 by 8 to get the decimal 0.375. Multiplying the decimal by 100 converts it to a percentage, so 3/8 = 37.5%.",
+      "difficulty": "medium",
+      "source": "fractions.md"
     }
   ],
   "forces": [
@@ -90,6 +196,112 @@
       "hint": "Rearrange F = ma to make mass the subject.",
       "explanation": "F = ma, so m = F / a = 60 / 4 = 15 kg. Mass is measured in kilograms.",
       "difficulty": "hard",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q4",
+      "type": "mcq",
+      "question": "Which unit is used to measure force?",
+      "options": [
+        "Newton (N)",
+        "Joule (J)",
+        "Watt (W)",
+        "Pascal (Pa)"
+      ],
+      "answer": "Newton (N)",
+      "hint": "The unit is named after the scientist in Newton's laws.",
+      "explanation": "Force is measured in newtons (N). Joules measure energy, watts measure power and pascals measure pressure.",
+      "difficulty": "easy",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q5",
+      "type": "mcq",
+      "question": "A 5 kg box is pushed with 20 N to the right while friction acts with 8 N to the left. What is the resultant force?",
+      "options": [
+        "28 N to the right",
+        "12 N to the right",
+        "12 N to the left",
+        "2 N to the right"
+      ],
+      "answer": "12 N to the right",
+      "hint": "The forces act in opposite directions, so subtract and keep the direction of the larger force.",
+      "explanation": "Forces in opposite directions subtract: 20 N - 8 N = 12 N. The larger force points to the right, so the resultant force is 12 N to the right.",
+      "difficulty": "medium",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q6",
+      "type": "mcq",
+      "question": "Which pair contains only contact forces?",
+      "options": [
+        "Friction and air resistance",
+        "Gravity and magnetism",
+        "Tension and gravity",
+        "Electrostatic force and weight"
+      ],
+      "answer": "Friction and air resistance",
+      "hint": "A contact force needs the objects to touch.",
+      "explanation": "Contact forces include friction, air resistance, tension and the normal contact force. Gravity, magnetism and electrostatic force act without touching, so they are non-contact forces. Weight is the force of gravity, so it is non-contact.",
+      "difficulty": "medium",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q7",
+      "type": "short",
+      "question": "Calculate the acceleration of the 5 kg box from the worked example. Include the unit.",
+      "answer": "2.4 m/s^2",
+      "accepted_keywords": [
+        "2.4",
+        "m/s"
+      ],
+      "hint": "Use F = ma and divide the resultant force by the mass.",
+      "explanation": "The resultant force is 12 N and the mass is 5 kg, so a = F / m = 12 / 5 = 2.4 m/s^2.",
+      "difficulty": "medium",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q8",
+      "type": "short",
+      "question": "Calculate the weight of the 5 kg box on Earth, where the gravitational field strength is 9.8 N/kg. Include the unit.",
+      "answer": "49 N",
+      "accepted_keywords": [
+        "49",
+        "W = mg"
+      ],
+      "hint": "Use W = mg.",
+      "explanation": "W = mg = 5 x 9.8 = 49 N. Weight is a force measured in newtons, while the mass stays 5 kg.",
+      "difficulty": "medium",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q9",
+      "type": "short",
+      "question": "State Newton's first law, then explain why a moving object does not need a continuous force to keep moving at a steady speed.",
+      "answer": "Newton's first law says an object stays at rest or keeps moving at a constant velocity unless a resultant force acts on it. With no resultant force there is no change in motion, so the object continues at a steady speed without a continuous force.",
+      "accepted_keywords": [
+        "resultant force",
+        "constant velocity",
+        "at rest"
+      ],
+      "hint": "Focus on what happens when the resultant force is zero.",
+      "explanation": "An object keeps its state of rest or constant velocity unless a resultant force changes it. Zero resultant force means zero acceleration, so the motion carries on unchanged.",
+      "difficulty": "hard",
+      "source": "forces.md"
+    },
+    {
+      "id": "forces-q10",
+      "type": "short",
+      "question": "Is a force a scalar or a vector quantity? Justify your answer.",
+      "answer": "A force is a vector quantity because it has both size (magnitude) and direction.",
+      "accepted_keywords": [
+        "vector",
+        "direction",
+        "magnitude"
+      ],
+      "hint": "Compare force with mass and time.",
+      "explanation": "A vector has both size and direction. Force has both, shown by arrows on diagrams whose length gives the size and whose arrowhead gives the direction. Mass and time have size only, so they are scalars.",
+      "difficulty": "easy",
       "source": "forces.md"
     }
   ],
@@ -140,6 +352,114 @@
       "explanation": "Each carbon atom in diamond is covalently bonded to four others, forming a giant covalent lattice. Melting requires many strong covalent bonds to be broken, which needs a large amount of energy.",
       "difficulty": "hard",
       "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q4",
+      "type": "mcq",
+      "question": "Which ions are formed when sodium and chlorine form sodium chloride?",
+      "options": [
+        "Na+ and Cl-",
+        "Na- and Cl+",
+        "Na2+ and Cl2-",
+        "Na and Cl with no charge"
+      ],
+      "answer": "Na+ and Cl-",
+      "hint": "Sodium is a metal that loses one electron; chlorine is a non-metal that gains one.",
+      "explanation": "A sodium atom loses one electron to become Na+, and a chlorine atom gains one electron to become Cl-. The ions are held together by electrostatic attraction and combine in a 1:1 ratio, giving NaCl.",
+      "difficulty": "easy",
+      "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q5",
+      "type": "mcq",
+      "question": "Why does graphite conduct electricity while diamond does not?",
+      "options": [
+        "Graphite has delocalised electrons that can move between its layers.",
+        "Diamond contains free ions that carry charge.",
+        "Graphite is a metal rather than a covalent substance.",
+        "Diamond has weaker bonds than graphite."
+      ],
+      "answer": "Graphite has delocalised electrons that can move between its layers.",
+      "hint": "Both are giant covalent structures; the difference is in how many bonds each carbon forms.",
+      "explanation": "In graphite each carbon bonds to only three others, leaving delocalised electrons that move and carry charge. In diamond each carbon bonds to four others in a rigid network, so there are no free charged particles.",
+      "difficulty": "medium",
+      "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q6",
+      "type": "mcq",
+      "question": "Why do simple molecular substances such as water have low melting and boiling points?",
+      "options": [
+        "The forces between their molecules are weak.",
+        "Their covalent bonds are weak and break easily.",
+        "They contain free ions that move when heated.",
+        "They are held together by metallic bonding."
+      ],
+      "answer": "The forces between their molecules are weak.",
+      "hint": "Melting a simple molecular substance separates molecules; it does not break the covalent bonds inside them.",
+      "explanation": "Only the weak intermolecular forces between molecules need to be overcome, so little energy is required. The covalent bonds inside each molecule are strong and stay intact.",
+      "difficulty": "medium",
+      "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q7",
+      "type": "short",
+      "question": "Explain why solid sodium chloride does not conduct electricity but molten sodium chloride does.",
+      "answer": "In the solid the ions are fixed in a giant ionic lattice and cannot move, so no charge can flow. When molten the ions are free to move and carry the charge through the liquid.",
+      "accepted_keywords": [
+        "ions",
+        "free to move",
+        "lattice"
+      ],
+      "hint": "Conduction needs charged particles that are able to move.",
+      "explanation": "Solid ionic compounds have their ions locked in a giant lattice, so there is no mobile charge. Melting or dissolving releases the ions, which can then move and conduct.",
+      "difficulty": "medium",
+      "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q8",
+      "type": "short",
+      "question": "Describe, in terms of electrons and ions, how an ionic bond forms between sodium and chlorine.",
+      "answer": "Sodium transfers its outer electron to chlorine, becoming Na+, while chlorine gains that electron to become Cl-. The oppositely charged ions are then held together by strong electrostatic attraction.",
+      "accepted_keywords": [
+        "transferred",
+        "electrons",
+        "electrostatic"
+      ],
+      "hint": "One atom loses, the other gains, and the result is attraction.",
+      "explanation": "Ionic bonding involves transfer of electrons from a metal atom to a non-metal atom. The positive and negative ions produced attract each other strongly, forming the ionic bond.",
+      "difficulty": "hard",
+      "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q9",
+      "type": "short",
+      "question": "Explain why metals are malleable and ductile, referring to the structure of a metal.",
+      "answer": "A metal is a lattice of positive ions surrounded by delocalised electrons. Layers of ions can slide over each other while the attraction to the delocalised electrons is maintained, so the metal can be hammered into shape or drawn into wire.",
+      "accepted_keywords": [
+        "layers",
+        "ions",
+        "slide",
+        "delocalised"
+      ],
+      "hint": "What happens when you apply a force to the layers of ions?",
+      "explanation": "The positive ions are in layers within a sea of delocalised electrons. When a force shifts one layer over another the bonding is not broken, because the delocalised electrons continue to hold the ions together.",
+      "difficulty": "hard",
+      "source": "chemical-bonding.md"
+    },
+    {
+      "id": "chemical-bonding-q10",
+      "type": "short",
+      "question": "State the main difference between ionic and covalent bonding in terms of what happens to electrons.",
+      "answer": "Ionic bonding transfers electrons from a metal atom to a non-metal atom, forming oppositely charged ions, while covalent bonding involves non-metal atoms sharing pairs of electrons.",
+      "accepted_keywords": [
+        "transferred",
+        "share"
+      ],
+      "hint": "One word for ionic, a different word for covalent.",
+      "explanation": "Ionic bonding is electron transfer between a metal and a non-metal; covalent bonding is electron sharing between non-metal atoms so each gains a full outer shell.",
+      "difficulty": "easy",
+      "source": "chemical-bonding.md"
     }
   ],
   "indices": [
@@ -187,6 +507,111 @@
       "explanation": "16^(1/4) = 2 because 2^4 = 16. Then 2^3 = 8, so 16^(3/4) = 8.",
       "difficulty": "hard",
       "source": "indices.md"
+    },
+    {
+      "id": "indices-q4",
+      "type": "mcq",
+      "question": "What is the value of 7 raised to the power zero?",
+      "options": [
+        "1",
+        "0",
+        "7",
+        "49"
+      ],
+      "answer": "1",
+      "hint": "Any non-zero number to the power zero equals one.",
+      "explanation": "The zero index law states that any non-zero number to the power zero equals 1, so 7^0 = 1.",
+      "difficulty": "easy",
+      "source": "indices.md"
+    },
+    {
+      "id": "indices-q5",
+      "type": "mcq",
+      "question": "Simplify 5^7 divided by 5^4.",
+      "options": [
+        "5^3",
+        "5^11",
+        "5^28",
+        "5"
+      ],
+      "answer": "5^3",
+      "hint": "When dividing powers with the same base, subtract the indices.",
+      "explanation": "5^7 / 5^4 = 5^(7-4) = 5^3. The base stays the same and the indices subtract. 5^3 = 125.",
+      "difficulty": "medium",
+      "source": "indices.md"
+    },
+    {
+      "id": "indices-q6",
+      "type": "mcq",
+      "question": "Expand (2x^3)^2.",
+      "options": [
+        "4x^6",
+        "2x^6",
+        "4x^5",
+        "2x^9"
+      ],
+      "answer": "4x^6",
+      "hint": "Everything inside the bracket is raised to the power outside it.",
+      "explanation": "(2x^3)^2 = 2^2 x (x^3)^2 = 4x^6. The coefficient is squared and the index inside is multiplied by 2.",
+      "difficulty": "medium",
+      "source": "indices.md"
+    },
+    {
+      "id": "indices-q7",
+      "type": "short",
+      "question": "Write 0.00062 in standard form.",
+      "answer": "6.2 x 10^-4",
+      "accepted_keywords": [
+        "6.2",
+        "10^-4"
+      ],
+      "hint": "Standard form is a x 10^n where a is between 1 and 10.",
+      "explanation": "Move the decimal point four places to the right to give 6.2, which is between 1 and 10, and multiply by 10^-4 to keep the value the same. So 0.00062 = 6.2 x 10^-4.",
+      "difficulty": "hard",
+      "source": "indices.md"
+    },
+    {
+      "id": "indices-q8",
+      "type": "short",
+      "question": "Work out (2 x 10^3) multiplied by (3 x 10^5). Give your answer in standard form.",
+      "answer": "6 x 10^8",
+      "accepted_keywords": [
+        "6",
+        "10^8"
+      ],
+      "hint": "Multiply the first parts and add the powers of ten.",
+      "explanation": "Multiply the first parts: 2 x 3 = 6. Add the powers: 10^3 x 10^5 = 10^8. The result 6 x 10^8 is already in standard form because 6 is between 1 and 10.",
+      "difficulty": "hard",
+      "source": "indices.md"
+    },
+    {
+      "id": "indices-q9",
+      "type": "short",
+      "question": "Simplify x^5 multiplied by x^2, then state the law you used in words.",
+      "answer": "x^7, because when multiplying powers with the same base you add the indices.",
+      "accepted_keywords": [
+        "x^7",
+        "add"
+      ],
+      "hint": "The base is the same in both terms.",
+      "explanation": "x^5 x x^2 = x^(5+2) = x^7. The law of indices for multiplying states that a^m x a^n = a^(m+n).",
+      "difficulty": "medium",
+      "source": "indices.md"
+    },
+    {
+      "id": "indices-q10",
+      "type": "short",
+      "question": "Explain what the index tells you in the expression a^n, and evaluate 2^4 to illustrate it.",
+      "answer": "The index n tells you how many times to multiply the base a by itself. In 2^4 the base 2 is multiplied by itself four times: 2 x 2 x 2 x 2 = 16.",
+      "accepted_keywords": [
+        "times",
+        "multiply",
+        "16"
+      ],
+      "hint": "Think about repeated multiplication of the base.",
+      "explanation": "In a^n, a is the base and n is the index or exponent, giving the number of times the base is used as a factor. 2^4 = 2 x 2 x 2 x 2 = 16.",
+      "difficulty": "easy",
+      "source": "indices.md"
     }
   ],
   "electric-circuits": [
@@ -233,6 +658,112 @@
       "hint": "Use R = V / I.",
       "explanation": "R = V / I = 6 / 0.5 = 12 ohms. Dividing by 0.5 is the same as multiplying by 2.",
       "difficulty": "hard",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q4",
+      "type": "mcq",
+      "question": "Which equation links charge, current and time?",
+      "options": [
+        "Q = It",
+        "V = IR",
+        "P = IV",
+        "E = Pt"
+      ],
+      "answer": "Q = It",
+      "hint": "Charge is measured in coulombs, current in amps and time in seconds.",
+      "explanation": "Q = It, where Q is charge in coulombs, I is current in amps and t is time in seconds. For example, 2 A flowing for 30 s gives Q = 2 x 30 = 60 C.",
+      "difficulty": "easy",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q5",
+      "type": "mcq",
+      "question": "Why does a filament lamp not obey Ohm's law?",
+      "options": [
+        "Its resistance increases as it heats up.",
+        "Its resistance decreases as it heats up.",
+        "It has zero resistance at all temperatures.",
+        "Its temperature stays constant while it is lit."
+      ],
+      "answer": "Its resistance increases as it heats up.",
+      "hint": "Ohm's law only holds when resistance stays constant at constant temperature.",
+      "explanation": "A resistor obeys Ohm's law only if its resistance stays constant when its temperature is constant. The filament of a lamp heats up as current flows, its resistance rises, so it does not obey Ohm's law.",
+      "difficulty": "medium",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q6",
+      "type": "mcq",
+      "question": "In a series circuit, what happens when one component breaks?",
+      "options": [
+        "The circuit is incomplete and nothing works.",
+        "The other components receive a larger current.",
+        "The remaining components carry on working normally.",
+        "The supply voltage is shared more evenly."
+      ],
+      "answer": "The circuit is incomplete and nothing works.",
+      "hint": "A series circuit has only one path for the current.",
+      "explanation": "In series there is a single path, so a break anywhere stops the current everywhere and the circuit becomes incomplete.",
+      "difficulty": "medium",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q7",
+      "type": "short",
+      "question": "Calculate the charge that flows when a current of 2 A flows for 30 s. Include the unit.",
+      "answer": "60 C",
+      "accepted_keywords": [
+        "60",
+        "coulomb"
+      ],
+      "hint": "Use Q = It.",
+      "explanation": "Q = It = 2 x 30 = 60 C. Charge is measured in coulombs (C).",
+      "difficulty": "medium",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q8",
+      "type": "short",
+      "question": "A 12 V supply drives a current of 3 A through a motor. Calculate the power of the motor and the energy it transfers in 10 s.",
+      "answer": "Power = 36 W and energy = 360 J",
+      "accepted_keywords": [
+        "36",
+        "360"
+      ],
+      "hint": "Use P = IV first, then E = Pt.",
+      "explanation": "P = IV = 12 x 3 = 36 W. Then E = Pt = 36 x 10 = 360 J of energy is transferred in 10 seconds.",
+      "difficulty": "hard",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q9",
+      "type": "short",
+      "question": "Explain why household lighting is wired in parallel rather than in series.",
+      "answer": "In a parallel circuit the potential difference across each branch is the same as the supply voltage, so each lamp gets the full voltage, and each branch works independently, so one broken lamp does not stop the others.",
+      "accepted_keywords": [
+        "voltage",
+        "independent",
+        "branches"
+      ],
+      "hint": "Think about full voltage and what happens when one bulb breaks.",
+      "explanation": "Parallel wiring gives every branch the supply voltage and keeps the branches independent, which is exactly why it is used for household lighting.",
+      "difficulty": "medium",
+      "source": "electric-circuits.md"
+    },
+    {
+      "id": "electric-circuits-q10",
+      "type": "short",
+      "question": "State what potential difference measures and give its unit.",
+      "answer": "Potential difference is the energy transferred per unit of charge, and it is measured in volts (V).",
+      "accepted_keywords": [
+        "energy",
+        "charge",
+        "volts"
+      ],
+      "hint": "Think about energy per coulomb.",
+      "explanation": "V = W / Q, so potential difference is energy transferred per coulomb of charge. A 6 V battery transfers 6 J of energy to each coulomb that passes through it.",
+      "difficulty": "easy",
       "source": "electric-circuits.md"
     }
   ],
@@ -283,6 +814,114 @@
       "explanation": "Towns grew faster than housing and sewers could be built. Overcrowded housing and contaminated water allowed cholera to spread quickly.",
       "difficulty": "hard",
       "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q4",
+      "type": "mcq",
+      "question": "In which country did the Industrial Revolution begin around 1750?",
+      "options": [
+        "Britain",
+        "France",
+        "The United States",
+        "Germany"
+      ],
+      "answer": "Britain",
+      "hint": "The note describes a shift from home workshops to factories in one country first.",
+      "explanation": "The Industrial Revolution was a period of rapid industrial change that began in Britain around 1750 and continued into the 1900s, with different regions industrialising at different speeds.",
+      "difficulty": "easy",
+      "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q5",
+      "type": "mcq",
+      "question": "Which textile invention of 1733 made weaving faster?",
+      "options": [
+        "The flying shuttle",
+        "The spinning jenny",
+        "The water frame",
+        "The power loom"
+      ],
+      "answer": "The flying shuttle",
+      "hint": "It was the earliest of the four inventions listed in the note.",
+      "explanation": "The flying shuttle (1733) made weaving faster. The spinning jenny (c. 1764) spun several threads at once, the water frame (1769) used water power to make stronger thread, and the power loom (1785) wove cloth mechanically.",
+      "difficulty": "medium",
+      "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q6",
+      "type": "mcq",
+      "question": "What did the Factory Act of 1833 do?",
+      "options": [
+        "It appointed inspectors and limited the hours of child workers.",
+        "It banned all child labour in mines and mills.",
+        "It nationalised the factories and mines.",
+        "It built railways to link the industrial towns."
+      ],
+      "answer": "It appointed inspectors and limited the hours of child workers.",
+      "hint": "It was a reform law responding to dangerous factory conditions.",
+      "explanation": "The Factory Act of 1833 appointed inspectors and limited the hours of child workers. Later laws reduced working hours for women and children, and the Public Health Act of 1848 encouraged better sanitation.",
+      "difficulty": "medium",
+      "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q7",
+      "type": "short",
+      "question": "Name the two raw materials that Britain had in large supply and that were needed for steam power and machinery.",
+      "answer": "Coal and iron ore.",
+      "accepted_keywords": [
+        "coal",
+        "iron"
+      ],
+      "hint": "Both were mined in Britain and used to build engines and machines.",
+      "explanation": "Britain had large supplies of coal and iron ore, the raw materials needed for steam power and machinery, alongside canals, railways, trade and investment capital.",
+      "difficulty": "medium",
+      "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q8",
+      "type": "short",
+      "question": "Explain how the spinning jenny, the water frame and the power loom changed textile production.",
+      "answer": "The spinning jenny let one worker spin several threads at once, the water frame used water power to produce stronger thread and encouraged factories beside rivers, and the power loom wove cloth mechanically using water or steam power. Together these inventions increased output.",
+      "accepted_keywords": [
+        "threads",
+        "water",
+        "output"
+      ],
+      "hint": "Say what each invention did, then describe the combined effect.",
+      "explanation": "Each invention removed a stage of hand production: spinning several threads, making stronger thread with water power, and weaving mechanically. Together they increased output while displacing some skilled hand-workers.",
+      "difficulty": "hard",
+      "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q9",
+      "type": "short",
+      "question": "Explain how the growth of railways changed life in Britain beyond simply moving goods.",
+      "answer": "Railways made journeys faster so goods could reach distant markets, fresh food and newspapers travelled more widely, railway building created jobs, and they encouraged a standard national time.",
+      "accepted_keywords": [
+        "markets",
+        "jobs",
+        "time",
+        "food"
+      ],
+      "hint": "Think about what else travels along with goods and passengers.",
+      "explanation": "Railways lowered transport costs and journey times, widened markets, spread food and news, provided employment and helped standardise time across the country.",
+      "difficulty": "hard",
+      "source": "industrial-revolution.md"
+    },
+    {
+      "id": "industrial-revolution-q10",
+      "type": "short",
+      "question": "State one reason why rural workers moved from the countryside into towns during the Industrial Revolution.",
+      "answer": "Enclosure and changes in farming reduced the need for rural workers, so they moved to towns looking for work in factories.",
+      "accepted_keywords": [
+        "farming",
+        "work",
+        "factories"
+      ],
+      "hint": "Look at the causes section about changes in farming.",
+      "explanation": "Improvements in farming increased food output, but enclosure and the same changes reduced the number of workers needed in the countryside, pushing them towards towns where factories offered employment.",
+      "difficulty": "easy",
+      "source": "industrial-revolution.md"
     }
   ],
   "algebra": [
@@ -329,6 +968,109 @@
       "hint": "Expand the bracket first, then collect the x terms on one side.",
       "explanation": "Expanding gives 4x - 12 = 2x + 6. Subtract 2x from both sides: 2x - 12 = 6. Add 12: 2x = 18. Divide by 2: x = 9.",
       "difficulty": "hard",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q4",
+      "type": "mcq",
+      "question": "In the term 7x, what is the number 7 called?",
+      "options": [
+        "The coefficient",
+        "The variable",
+        "The exponent",
+        "The identity"
+      ],
+      "answer": "The coefficient",
+      "hint": "It is the number multiplying the letter.",
+      "explanation": "In a term such as 7x, the number 7 is the coefficient and x is the variable. Terms with exactly the same variable part are called like terms.",
+      "difficulty": "easy",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q5",
+      "type": "mcq",
+      "question": "Factorise x^2 + 5x + 6.",
+      "options": [
+        "(x + 2)(x + 3)",
+        "(x + 1)(x + 6)",
+        "(x - 2)(x - 3)",
+        "(x + 5)(x + 1)"
+      ],
+      "answer": "(x + 2)(x + 3)",
+      "hint": "Find two numbers that multiply to give 6 and add to give 5.",
+      "explanation": "The two numbers are 2 and 3, because 2 x 3 = 6 and 2 + 3 = 5. Therefore x^2 + 5x + 6 = (x + 2)(x + 3).",
+      "difficulty": "medium",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q6",
+      "type": "mcq",
+      "question": "Solve 5x - 7 = 18.",
+      "options": [
+        "x = 5",
+        "x = 4",
+        "x = 25",
+        "x = 3.8"
+      ],
+      "answer": "x = 5",
+      "hint": "Add 7 to both sides first, then divide.",
+      "explanation": "Adding 7 to both sides gives 5x = 25. Dividing both sides by 5 gives x = 5. Checking: 5 x 5 - 7 = 18, which is correct.",
+      "difficulty": "medium",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q7",
+      "type": "short",
+      "question": "Expand and simplify 7x + 3y - 2x + y.",
+      "answer": "5x + 4y",
+      "accepted_keywords": [
+        "5x",
+        "4y"
+      ],
+      "hint": "Collect the like terms by adding or subtracting their coefficients.",
+      "explanation": "7x - 2x = 5x and 3y + y = 4y, so the expression simplifies to 5x + 4y. The variable parts do not change when like terms are collected.",
+      "difficulty": "medium",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q8",
+      "type": "short",
+      "question": "Factorise 6x + 9.",
+      "answer": "3(2x + 3)",
+      "accepted_keywords": [
+        "3(2x + 3)",
+        "2x + 3"
+      ],
+      "hint": "Always look for a common factor first.",
+      "explanation": "Both terms divide by 3, so 6x + 9 = 3(2x + 3). Expanding the bracket gives back 6x + 9, confirming the answer.",
+      "difficulty": "hard",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q9",
+      "type": "short",
+      "question": "Solve x^2 + 5x + 6 = 0. Give both solutions.",
+      "answer": "x = -2 or x = -3",
+      "accepted_keywords": [
+        "-2",
+        "-3"
+      ],
+      "hint": "Factorise the quadratic, then set each bracket equal to zero.",
+      "explanation": "x^2 + 5x + 6 factorises as (x + 2)(x + 3). Setting each bracket to zero gives x + 2 = 0 so x = -2, and x + 3 = 0 so x = -3.",
+      "difficulty": "hard",
+      "source": "algebra.md"
+    },
+    {
+      "id": "algebra-q10",
+      "type": "short",
+      "question": "If x = 4, work out the value of 3x + 5.",
+      "answer": "17",
+      "accepted_keywords": [
+        "17"
+      ],
+      "hint": "Replace x with 4 and follow the order of operations.",
+      "explanation": "Substituting x = 4 gives 3 x 4 + 5 = 12 + 5 = 17.",
+      "difficulty": "easy",
       "source": "algebra.md"
     }
   ],
@@ -379,6 +1121,113 @@
       "explanation": "A large, thin surface maximises light capture and shortens diffusion distances, so carbon dioxide reaches the cells quickly.",
       "difficulty": "hard",
       "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q4",
+      "type": "mcq",
+      "question": "Which pigment absorbs the light energy used in photosynthesis?",
+      "options": [
+        "Chlorophyll",
+        "Haemoglobin",
+        "Melanin",
+        "Starch"
+      ],
+      "answer": "Chlorophyll",
+      "hint": "It is found inside chloroplasts in the leaf.",
+      "explanation": "Chlorophyll is the green pigment inside chloroplasts that absorbs light energy. It absorbs red and blue light most strongly and reflects green light, which is why leaves look green.",
+      "difficulty": "easy",
+      "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q5",
+      "type": "mcq",
+      "question": "Why do most leaves appear green?",
+      "options": [
+        "Chlorophyll reflects green light.",
+        "Chlorophyll absorbs green light most strongly.",
+        "The cells are filled with green oxygen.",
+        "The cuticle contains green starch granules."
+      ],
+      "answer": "Chlorophyll reflects green light.",
+      "hint": "Think about which wavelengths are absorbed and which are bounced back.",
+      "explanation": "Chlorophyll absorbs red and blue light most strongly and reflects green light, so the light reaching our eyes from the leaf is mainly green.",
+      "difficulty": "medium",
+      "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q6",
+      "type": "mcq",
+      "question": "Which of these is NOT listed as a limiting factor of photosynthesis?",
+      "options": [
+        "Soil pH",
+        "Light intensity",
+        "Carbon dioxide concentration",
+        "Temperature"
+      ],
+      "answer": "Soil pH",
+      "hint": "The note lists three main limiting factors.",
+      "explanation": "The main limiting factors are light intensity, carbon dioxide concentration and temperature. Soil pH is not listed in the note as a factor limiting the rate of photosynthesis.",
+      "difficulty": "medium",
+      "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q7",
+      "type": "short",
+      "question": "Write the balanced symbol equation for photosynthesis.",
+      "answer": "6CO2 + 6H2O -> C6H12O6 + 6O2",
+      "accepted_keywords": [
+        "6CO2",
+        "6H2O",
+        "6O2"
+      ],
+      "hint": "The reactants are carbon dioxide and water; the products are glucose and oxygen.",
+      "explanation": "The balanced symbol equation is 6CO2 + 6H2O -> C6H12O6 + 6O2, with light energy written above the arrow and chlorophyll below it.",
+      "difficulty": "medium",
+      "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q8",
+      "type": "short",
+      "question": "Explain why photosynthesis is described as an endothermic reaction.",
+      "answer": "Photosynthesis takes in energy from the light source and transfers it into the chemical energy store of the glucose it produces, so energy is absorbed overall.",
+      "accepted_keywords": [
+        "energy",
+        "light",
+        "chemical"
+      ],
+      "hint": "Think about where the energy comes from and where it ends up.",
+      "explanation": "An endothermic reaction takes in energy. Light energy absorbed by chlorophyll is transferred into the chemical energy stored in glucose, so the reaction is endothermic.",
+      "difficulty": "hard",
+      "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q9",
+      "type": "short",
+      "question": "A plant is supplied with plenty of light, but carbon dioxide is in short supply. Explain why increasing the light further does not increase the rate of photosynthesis.",
+      "answer": "Carbon dioxide becomes the limiting factor, so the rate levels off and extra light gives no further increase. The graph flattens because a different factor is now in short supply.",
+      "accepted_keywords": [
+        "limiting",
+        "levels off",
+        "carbon dioxide"
+      ],
+      "hint": "A limiting factor is something in short supply that caps the rate.",
+      "explanation": "The rate levels off when another factor runs short. With carbon dioxide scarce, adding more light cannot increase the rate until the carbon dioxide supply increases.",
+      "difficulty": "hard",
+      "source": "photosynthesis.md"
+    },
+    {
+      "id": "photosynthesis-q10",
+      "type": "short",
+      "question": "Name the two products of photosynthesis.",
+      "answer": "Glucose and oxygen.",
+      "accepted_keywords": [
+        "glucose",
+        "oxygen"
+      ],
+      "hint": "Look at the word equation.",
+      "explanation": "Carbon dioxide and water are the reactants, and the products are glucose and oxygen: carbon dioxide + water -> glucose + oxygen.",
+      "difficulty": "easy",
+      "source": "photosynthesis.md"
     }
   ],
   "particle-model": [
@@ -427,6 +1276,113 @@
       "hint": "Think about what the energy is doing to the arrangement of particles.",
       "explanation": "During melting, energy increases the potential energy of the particles by overcoming attractive forces. It does not increase their average kinetic energy, so the thermometer reading stays the same until all the solid has melted.",
       "difficulty": "hard",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q4",
+      "type": "mcq",
+      "question": "What can be said about the volume and shape of a liquid?",
+      "options": [
+        "It has a fixed volume and takes the shape of its container.",
+        "It has a fixed shape and a fixed volume.",
+        "It has no fixed volume and fills its container completely.",
+        "Its volume changes whenever it is poured."
+      ],
+      "answer": "It has a fixed volume and takes the shape of its container.",
+      "hint": "Liquids can move past one another but are still close together.",
+      "explanation": "Liquid particles are close together but randomly arranged and move past one another, so a liquid keeps a fixed volume but takes the shape of its container. It is difficult to compress.",
+      "difficulty": "easy",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q5",
+      "type": "mcq",
+      "question": "A solid changes directly into a gas without first becoming a liquid. What is this change called?",
+      "options": [
+        "Sublimation",
+        "Evaporation",
+        "Condensation",
+        "Boiling"
+      ],
+      "answer": "Sublimation",
+      "hint": "It skips the liquid state entirely.",
+      "explanation": "Sublimation is when a solid changes directly into a gas. Evaporation happens at the surface of a liquid below its boiling point, boiling turns a liquid into a gas, and condensation turns a gas into a liquid.",
+      "difficulty": "medium",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q6",
+      "type": "mcq",
+      "question": "Why does the gas pressure in a sealed container increase when its volume is reduced at constant temperature?",
+      "options": [
+        "Particles collide with the walls more often.",
+        "Particles gain kinetic energy and move faster.",
+        "Particles become heavier when squeezed.",
+        "Particles stop moving so they push less evenly."
+      ],
+      "answer": "Particles collide with the walls more often.",
+      "hint": "Pressure is caused by collisions with the container walls.",
+      "explanation": "Reducing the volume at constant temperature makes collisions with the walls more frequent, so the pressure rises. The particles do not gain kinetic energy because the temperature has not changed.",
+      "difficulty": "medium",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q7",
+      "type": "short",
+      "question": "A block has a mass of 200 g and a volume of 25 cm^3. Calculate its density. Include the unit.",
+      "answer": "8 g/cm^3",
+      "accepted_keywords": [
+        "8",
+        "g/cm"
+      ],
+      "hint": "Density = mass / volume.",
+      "explanation": "Density = mass / volume = 200 / 25 = 8 g/cm^3. Substances whose particles are packed more closely have a higher density.",
+      "difficulty": "medium",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q8",
+      "type": "short",
+      "question": "Explain why the temperature stays constant while a liquid is boiling, even though energy is still being supplied.",
+      "answer": "The energy supplied overcomes the forces between the particles, increasing their potential energy rather than their average kinetic energy, so the temperature does not rise until all the liquid has boiled.",
+      "accepted_keywords": [
+        "forces",
+        "potential",
+        "kinetic"
+      ],
+      "hint": "Decide whether the energy is going into movement or into separating the particles.",
+      "explanation": "During boiling the supplied energy breaks up the forces between particles, raising their potential energy. The average kinetic energy, and therefore the temperature, stays constant until the change of state is complete.",
+      "difficulty": "hard",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q9",
+      "type": "short",
+      "question": "Explain why diffusion is faster in a gas than in a liquid at the same temperature.",
+      "answer": "Gas particles are far apart, move quickly in all directions with almost no forces between them, so they spread through the space rapidly, whereas liquid particles are close together and can only move past one another slowly.",
+      "accepted_keywords": [
+        "far apart",
+        "forces",
+        "move"
+      ],
+      "hint": "Compare how the particles are arranged and how strongly they attract each other.",
+      "explanation": "Diffusion is the net movement of particles from higher to lower concentration caused by random motion. It is fastest in gases because particles are widely spaced with almost no forces between them, and slowest in solids where particles only vibrate.",
+      "difficulty": "hard",
+      "source": "particle-model.md"
+    },
+    {
+      "id": "particle-model-q10",
+      "type": "short",
+      "question": "State the equation for density and give the two units mentioned in the note.",
+      "answer": "density = mass / volume, measured in kg/m^3 or g/cm^3.",
+      "accepted_keywords": [
+        "mass",
+        "volume",
+        "kg"
+      ],
+      "hint": "It is one quantity divided by another.",
+      "explanation": "Density is mass per unit volume, density = mass / volume, and it is measured in kg/m^3 or g/cm^3.",
+      "difficulty": "easy",
       "source": "particle-model.md"
     }
   ]
