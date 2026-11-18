@@ -1,0 +1,14 @@
+﻿Phase 0 baseline
+timestamp: 2026-11-18T08:07:31.7753243+04:00
+python: 3.14.7
+torch: 2.14.0+cpu
+sklearn: 1.9.1
+flask: 3.1.3
+pip check: no broken requirements
+pytest: 56 passed in 21.06s
+language_model.pt: 2956416 params, rewiseorist-lm-0.1 step 1800 loads OK
+language_model_pretrained.pt: rewiseorist-lm-0.1 step 1800 loads OK
+teacher specs available: qwen25-3b, llama32-3b
+llama-server smoke: qwen25-3b answered 'OK, got it.' in 1.88s on port 8095
+ollama: stopped
+performance_model.joblib: not present yet (created in Phase 5)

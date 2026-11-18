@@ -58,6 +58,8 @@ datasets/
 data/raw/
 data/dataset/
 data/teacher/raw/
+data/teacher/reviewed/
+data/teacher/*.jsonl
 data/logs/
 *.parquet
 *.arrow
