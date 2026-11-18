@@ -212,26 +212,29 @@ def _public_question(question: dict) -> dict:
 
 def _classifier_features(profile_id: int, topic_id: int) -> dict:
     attempts = [a for a in storage.list_attempts(profile_id, topic_id, _db()) if a["verified"]]
-    distinct_questions = {a["question_id"] for a in attempts if a["question_id"]}
-    if len(attempts) < 3 or len(distinct_questions) < 3:
-        return {"unknown": True, "distinct_attempts": len(attempts),
-                "distinct_questions": len(distinct_questions)}
-    ratios = [a["marks_awarded"] / max(a["max_marks"], 1) for a in attempts]
+    # One attempt per distinct question: re-answering the same question is not
+    # new evidence about the learner's level.
+    evidence = study_tools.evidence_attempts(attempts)
+    distinct_questions = study_tools.distinct_question_count(evidence)
+    if distinct_questions < 3:
+        return {"unknown": True, "distinct_attempts": len(evidence),
+                "distinct_questions": distinct_questions}
+    ratios = [a["marks_awarded"] / max(a["max_marks"], 1) for a in evidence]
     recent = ratios[-3:]
     earlier = ratios[:-3]
     mean_accuracy = sum(ratios) / len(ratios)
     recent_accuracy = sum(recent) / len(recent)
     earlier_accuracy = sum(earlier) / len(earlier) if earlier else mean_accuracy
     trend = recent_accuracy - earlier_accuracy
-    hint_rate = sum(a["hint_used"] for a in attempts) / len(attempts)
-    independent_rate = sum(a["independent"] for a in attempts) / len(attempts)
+    hint_rate = sum(a["hint_used"] for a in evidence) / len(evidence)
+    independent_rate = sum(a["independent"] for a in evidence) / len(evidence)
     difficulty_values = {"easy": 1, "medium": 2, "hard": 3}
     difficulty = 0.0
     active = 0
     repeated_errors = 0
     seen_errors = set()
-    for attempt in attempts:
-        difficulty += difficulty_values.get("medium", 2)
+    for attempt in evidence:
+        difficulty += difficulty_values.get(str(attempt.get("difficulty") or "medium"), 2)
         active += attempt["active_seconds"]
         if attempt["error_type"]:
             if attempt["error_type"] in seen_errors:
@@ -244,10 +247,10 @@ def _classifier_features(profile_id: int, topic_id: int) -> dict:
         "accuracy_trend": round(trend, 4),
         "hint_rate": round(hint_rate, 4),
         "independent_rate": round(independent_rate, 4),
-        "mean_difficulty": round(difficulty / len(attempts), 3),
-        "mean_active_seconds": round(active / len(attempts), 1),
-        "distinct_attempts": len(attempts),
-        "distinct_questions": len(distinct_questions),
+        "mean_difficulty": round(difficulty / len(evidence), 3),
+        "mean_active_seconds": round(active / len(evidence), 1),
+        "distinct_attempts": len(evidence),
+        "distinct_questions": distinct_questions,
         "repeated_errors": repeated_errors,
     }
 
@@ -778,7 +781,9 @@ def create_app(test_config: dict | None = None, runtime_override: ModelRuntime |
             active_seconds=int(data.get("active_seconds", 0) or 0),
         )
         attempts = [a for a in storage.list_attempts(profile_id, question["topic_id"], _db()) if a["verified"]]
-        if len(attempts) >= 3:
+        # A lesson is complete once three distinct checked questions have been
+        # attempted; retrying one question does not count as three pieces of work.
+        if study_tools.distinct_question_count(attempts) >= 3:
             study_tools.award_lesson_completion(profile_id, question["topic_id"], _db())
         _inactivity().touch(profile_id)
         return _ok(result=result, question=_public_question(question),

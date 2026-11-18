@@ -215,9 +215,36 @@ def ensure_quiz(profile_id: int, topic_id: int, db_path: str | Path = storage.DE
 # ---------------------------------------------------------------------------
 # Attempts, rewards and improvement
 # ---------------------------------------------------------------------------
+def evidence_attempts(attempts: Sequence[dict]) -> list[dict]:
+    """Reduce raw attempts to one piece of evidence per distinct checked question.
+
+    The performance classifier must not be inflated by re-attempting the same
+    question, so the latest verified attempt for each question is kept. The
+    result is ordered chronologically so trends read oldest to newest.
+    """
+    latest: dict[str, dict] = {}
+    for attempt in attempts:
+        if not attempt.get("verified"):
+            continue
+        key = str(attempt.get("question_id") or f"attempt:{attempt.get('id')}")
+        previous = latest.get(key)
+        if previous is None or (attempt.get("created_at", ""), attempt.get("id", 0)) >= (
+            previous.get("created_at", ""), previous.get("id", 0)
+        ):
+            latest[key] = attempt
+    return sorted(
+        latest.values(),
+        key=lambda a: (str(a.get("created_at", "")), int(a.get("id", 0) or 0)),
+    )
+
+
+def distinct_question_count(attempts: Sequence[dict]) -> int:
+    return len({a.get("question_id") for a in attempts if a.get("question_id")})
+
 
 def submit_answer(profile_id: int, question: dict, answer: str,
-                  db_path: str | Path = storage.DEFAULT_DB, session_id: int | None = None,
+                  db_path: str | Path = storage.DEFAULT_DB,
+                  session_id: int | None = None,
                   hint_used: bool = False, independent: bool = True,
                   active_seconds: int = 0, attempt_key: str | None = None) -> dict:
     result = mark_answer(question, answer)
@@ -237,12 +264,15 @@ def submit_answer(profile_id: int, question: dict, answer: str,
         result["correct"], db_path=db_path, topic_id=question.get("topic_id"),
         session_id=session_id, hint_used=hint_used, independent=independent,
         error_type=result["error_type"], active_seconds=active_seconds, verified=True,
+        difficulty=str(question.get("difficulty") or "medium"),
+        question_type=str(question.get("type") or "short"),
     )
     rewards = []
     if attempt:
+        # Completion XP is paid once per question so repeat attempts cannot farm it.
         rewards.append(storage.award_reward(
-            profile_id, f"attempt-complete:{attempt['id']}", "xp", XP_COMPLETE,
-            "Completed a practice attempt", db_path,
+            profile_id, f"attempt-first:{question['id']}", "xp", XP_COMPLETE,
+            "First attempt at this checked question", db_path,
         ))
         if result["correct"]:
             rewards.append(storage.award_reward(

@@ -189,6 +189,8 @@ CREATE TABLE IF NOT EXISTS attempts (
     hint_used INTEGER NOT NULL DEFAULT 0,
     independent INTEGER NOT NULL DEFAULT 1,
     error_type TEXT NOT NULL DEFAULT '',
+    difficulty TEXT NOT NULL DEFAULT 'medium',
+    question_type TEXT NOT NULL DEFAULT 'short',
     active_seconds INTEGER NOT NULL DEFAULT 0,
     attempt_key TEXT NOT NULL UNIQUE,
     verified INTEGER NOT NULL DEFAULT 0,
@@ -352,9 +354,41 @@ def db(db_path: str | Path = DEFAULT_DB):
         conn.close()
 
 
+def _migrate_attempts(conn) -> None:
+    """Add attempt difficulty/type columns to databases created before them.
+
+    Existing rows are backfilled from the question they answered, so the
+    performance classifier sees the same evidence shape as new attempts.
+    """
+    columns = {row[1] for row in conn.execute("PRAGMA table_info(attempts)")}
+    if not columns:
+        return
+    added = False
+    if "difficulty" not in columns:
+        conn.execute("ALTER TABLE attempts ADD COLUMN difficulty TEXT NOT NULL DEFAULT 'medium'")
+        added = True
+    if "question_type" not in columns:
+        conn.execute("ALTER TABLE attempts ADD COLUMN question_type TEXT NOT NULL DEFAULT 'short'")
+        added = True
+    if added:
+        conn.execute(
+            """
+            UPDATE attempts
+               SET difficulty = COALESCE(
+                       (SELECT difficulty FROM questions WHERE questions.id = attempts.question_id),
+                       'medium'),
+                   question_type = COALESCE(
+                       (SELECT type FROM questions WHERE questions.id = attempts.question_id),
+                       'short')
+             WHERE question_id IS NOT NULL
+            """
+        )
+
+
 def init_db(db_path: str | Path = DEFAULT_DB) -> None:
     with db(db_path) as conn:
         conn.executescript(SCHEMA)
+        _migrate_attempts(conn)
         now = utc_now()
         for item in STORE_ITEMS:
             conn.execute(
@@ -813,17 +847,19 @@ def record_attempt(profile_id: int, attempt_key: str, question_id: int | None,
                    db_path: str | Path = DEFAULT_DB, topic_id: int | None = None,
                    session_id: int | None = None, hint_used: bool = False,
                    independent: bool = True, error_type: str = "",
-                   active_seconds: int = 0, verified: bool = True) -> dict:
+                   active_seconds: int = 0, verified: bool = True,
+                   difficulty: str = "medium", question_type: str = "short") -> dict:
     with db(db_path) as conn:
         cur = conn.execute(
             """INSERT INTO attempts(profile_id, topic_id, question_id, session_id, answer,
                marks_awarded, max_marks, correct, hint_used, independent, error_type,
-               active_seconds, attempt_key, verified, created_at)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+               difficulty, question_type, active_seconds, attempt_key, verified, created_at)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                ON CONFLICT(attempt_key) DO NOTHING""",
             (profile_id, topic_id, question_id, session_id, answer, marks_awarded,
              max_marks, int(correct), int(hint_used), int(independent), error_type,
-             active_seconds, attempt_key, int(verified), utc_now()),
+             difficulty, question_type, active_seconds, attempt_key, int(verified),
+             utc_now()),
         )
         row = conn.execute("SELECT * FROM attempts WHERE attempt_key = ?", (attempt_key,)).fetchone()
     return dict(row) if row else {}
