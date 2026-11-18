@@ -10,5 +10,23 @@
     "training_seconds": 2890.0,
     "dataset": "TinyStoriesV2-GPT4 subset",
     "licence": "CDLA-Sharing-1.0"
+  },
+  "revision_chat": {
+    "provider": "ollama",
+    "model": "smollm2:360m",
+    "label": "SmolLM2 360M",
+    "model_id": "297281b699fc",
+    "size_bytes_approx": 725000000,
+    "num_ctx": 2048,
+    "max_tokens": 200,
+    "temperature": 0.2,
+    "endpoint": "http://127.0.0.1:11434/api/chat",
+    "licence_note": "SmolLM2 is pulled separately via ollama pull; not redistributed in this repository",
+    "pulled_at": "2026-11-18",
+    "replaces": "from-scratch language model for revision chat in this delivery"
+  },
+  "performance_classifier": {
+    "trained_files_present": false,
+    "fallback": "rule-fallback-v1 (ml/train_character.py rule_label)"
   }
 }
