@@ -1,0 +1,4 @@
+﻿ M app.py
+ M storage.py
+ M study_tools.py
+?? evidence/verification/pre-ollama-git-status.txt

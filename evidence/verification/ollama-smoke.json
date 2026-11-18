@@ -1,0 +1,6 @@
+{
+  "latency_s": 3.73,
+  "content": "OK",
+  "model": "smollm2:360m",
+  "done_reason": "stop"
+}

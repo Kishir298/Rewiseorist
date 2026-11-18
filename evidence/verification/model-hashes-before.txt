@@ -1,0 +1,10 @@
+﻿
+Algorithm Hash                                                             Path                                                                  
+--------- ----                                                             ----                                                                  
+SHA256    AD02188F7E68C8CE1D4162B961EE264FE08103C8A12D1354DDDDEDB94C4F4899 C:\Users\rishi\Desktop\Rewiseorist\models\language_model.pt           
+SHA256    007519D960B238C729D9B680E0B19703BCD98590D6C4B91D02CFAFCB8A2AFB86 C:\Users\rishi\Desktop\Rewiseorist\models\language_model_pretrained.pt
+SHA256    904B093A502CD2CEA0ED26EA783DB0EB2215A58776ED900CE80CA7286E3DC1B6 C:\Users\rishi\Desktop\Rewiseorist\models\tokenizer.json              
+SHA256    151F094EBE728EF0130F148306B740D688CD4A8030BFA85D63B9CDC24A627A99 C:\Users\rishi\Desktop\Rewiseorist\models\model_manifest.json         
+
+
+

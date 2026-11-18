@@ -1,0 +1,2079 @@
+﻿ollama : [?2026h[?25l[1Gpulling manifest Γáï [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÖ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╕ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá┤ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáª [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáº 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáç [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÅ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáï [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÖ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╕ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá┤ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáª [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáº 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáç [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÅ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáï [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÖ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╕ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá┤ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáª [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáº 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáç [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÅ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáï [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÖ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╕ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá┤ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáª [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáº 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáç [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÅ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáï [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest ΓáÖ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╣ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╕ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá╝ [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γá┤ 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáª [K[?25h[?2026l[?2026h[?25l[1Gpulling manifest Γáº 
+[K[?25h[?2026l[?2026h[?25l[1Gpulling manifest [K
+At line:1 char:1
++ ollama pull smollm2:360m 2>&1 | Out-File -Encoding utf8 evidence\veri ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([?2026h[?25l...ng manifest [K:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ  28 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 250 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 273 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 273 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 315 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 315 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 315 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 384 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 471 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 471 KB/725 MB                  
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 544 KB/725 MB  516 KB/s  
+23m24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 544 KB/725 MB  516 KB/s  
+23m24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 544 KB/725 MB  516 KB/s  
+23m24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 681 KB/725 MB  516 KB/s  
+23m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 685 KB/725 MB  516 KB/s  
+23m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 685 KB/725 MB  516 KB/s  
+23m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 1.0 MB/725 MB  516 KB/s  
+23m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 1.4 MB/725 MB  516 KB/s  
+23m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 1.4 MB/725 MB  516 KB/s  
+23m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 1.5 MB/725 MB  516 KB/s  
+23m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 1.5 MB/725 MB  719 KB/s  
+16m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 1.8 MB/725 MB  719 KB/s  
+16m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 2.1 MB/725 MB  719 KB/s  
+16m45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 2.5 MB/725 MB  719 KB/s  
+16m45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 2.7 MB/725 MB  719 KB/s  
+16m45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 2.8 MB/725 MB  719 KB/s  
+16m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 3.3 MB/725 MB  719 KB/s  
+16m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 3.4 MB/725 MB  719 KB/s  
+16m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   0% Γûò                  ΓûÅ 3.5 MB/725 MB  719 KB/s  
+16m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 3.7 MB/725 MB  719 KB/s  
+16m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 3.8 MB/725 MB  719 KB/s  
+16m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 3.9 MB/725 MB  1.3 MB/s   
+9m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 4.0 MB/725 MB  1.3 MB/s   
+9m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 4.1 MB/725 MB  1.3 MB/s   
+9m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 4.1 MB/725 MB  1.3 MB/s   
+9m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 4.4 MB/725 MB  1.3 MB/s   
+9m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 4.6 MB/725 MB  1.3 MB/s   
+9m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 4.6 MB/725 MB  1.3 MB/s   
+9m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 4.8 MB/725 MB  1.3 MB/s   
+9m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 4.8 MB/725 MB  1.3 MB/s   
+9m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 5.0 MB/725 MB  1.3 MB/s   
+9m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 5.3 MB/725 MB  1.2 MB/s   
+9m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 5.3 MB/725 MB  1.2 MB/s   
+9m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 5.4 MB/725 MB  1.2 MB/s   
+9m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 5.5 MB/725 MB  1.2 MB/s   
+9m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 5.6 MB/725 MB  1.2 MB/s   
+9m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 6.2 MB/725 MB  1.2 MB/s   
+9m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 6.5 MB/725 MB  1.2 MB/s   
+9m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 6.6 MB/725 MB  1.2 MB/s   
+9m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 6.6 MB/725 MB  1.2 MB/s   
+9m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 6.9 MB/725 MB  1.2 MB/s   
+9m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 7.1 MB/725 MB  1.4 MB/s   
+8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 7.3 MB/725 MB  1.4 MB/s   
+8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 7.5 MB/725 MB  1.4 MB/s   
+8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 7.5 MB/725 MB  1.4 MB/s   
+8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 7.6 MB/725 MB  1.4 MB/s   
+8m25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 7.8 MB/725 MB  1.4 MB/s   
+8m24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 8.1 MB/725 MB  1.4 MB/s   
+8m24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 8.2 MB/725 MB  1.4 MB/s   
+8m24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 8.3 MB/725 MB  1.4 MB/s   
+8m24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 8.4 MB/725 MB  1.4 MB/s   
+8m24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 8.5 MB/725 MB  1.4 MB/s   
+8m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 8.7 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 8.8 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 8.9 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.0 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.0 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.2 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.5 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.6 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.7 MB/725 MB  1.4 MB/s   
+8m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.7 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.8 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ 9.9 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   1% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  10 MB/725 MB  1.4 MB/s   
+8m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  11 MB/725 MB  1.4 MB/s   
+8m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  11 MB/725 MB  1.4 MB/s   
+8m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  11 MB/725 MB  1.4 MB/s   
+8m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  11 MB/725 MB  1.4 MB/s   
+8m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  11 MB/725 MB  1.4 MB/s   
+8m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  11 MB/725 MB  1.4 MB/s   
+8m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  11 MB/725 MB  1.4 MB/s   
+8m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  11 MB/725 MB  1.4 MB/s   
+8m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  12 MB/725 MB  1.4 MB/s   
+8m46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  12 MB/725 MB  1.3 MB/s   
+8m48s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  12 MB/725 MB  1.3 MB/s   
+8m48s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  12 MB/725 MB  1.3 MB/s   
+8m48s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  12 MB/725 MB  1.3 MB/s   
+8m48s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  12 MB/725 MB  1.3 MB/s   
+8m48s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  12 MB/725 MB  1.3 MB/s   
+8m48s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  13 MB/725 MB  1.3 MB/s   
+8m48s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  13 MB/725 MB  1.3 MB/s   
+8m48s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  13 MB/725 MB  1.3 MB/s   
+8m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  13 MB/725 MB  1.3 MB/s   
+8m47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  14 MB/725 MB  1.5 MB/s   
+7m55s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  14 MB/725 MB  1.5 MB/s   
+7m54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  14 MB/725 MB  1.5 MB/s   
+7m54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  15 MB/725 MB  1.5 MB/s   
+7m54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  16 MB/725 MB  1.5 MB/s   
+7m53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  16 MB/725 MB  1.5 MB/s   
+7m53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   2% Γûò                  ΓûÅ  17 MB/725 MB  1.5 MB/s   
+7m53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  18 MB/725 MB  1.5 MB/s   
+7m52s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  19 MB/725 MB  1.5 MB/s   
+7m51s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  19 MB/725 MB  1.5 MB/s   
+7m51s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  20 MB/725 MB  2.1 MB/s   
+5m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  21 MB/725 MB  2.1 MB/s   
+5m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  21 MB/725 MB  2.1 MB/s   
+5m36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  22 MB/725 MB  2.1 MB/s   
+5m35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  23 MB/725 MB  2.1 MB/s   
+5m35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  23 MB/725 MB  2.1 MB/s   
+5m35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   3% Γûò                  ΓûÅ  25 MB/725 MB  2.1 MB/s   
+5m34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   4% Γûò                  ΓûÅ  26 MB/725 MB  2.1 MB/s   
+5m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   4% Γûò                  ΓûÅ  27 MB/725 MB  2.1 MB/s   
+5m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   4% Γûò                  ΓûÅ  28 MB/725 MB  2.1 MB/s   
+5m33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   4% Γûò                  ΓûÅ  28 MB/725 MB  2.8 MB/s   
+4m12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   4% Γûò                  ΓûÅ  29 MB/725 MB  2.8 MB/s   
+4m12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   4% Γûò                  ΓûÅ  30 MB/725 MB  2.8 MB/s   
+4m11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   4% Γûò                  ΓûÅ  31 MB/725 MB  2.8 MB/s   
+4m11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   4% Γûò                  ΓûÅ  32 MB/725 MB  2.8 MB/s   
+4m11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   5% Γûò                  ΓûÅ  33 MB/725 MB  2.8 MB/s   
+4m10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   5% Γûò                  ΓûÅ  35 MB/725 MB  2.8 MB/s   
+4m10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   5% Γûò                  ΓûÅ  35 MB/725 MB  2.8 MB/s    
+4m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   5% Γûò                  ΓûÅ  37 MB/725 MB  2.8 MB/s    
+4m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   5% Γûò                  ΓûÅ  38 MB/725 MB  2.8 MB/s    
+4m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   5% Γûò                  ΓûÅ  39 MB/725 MB  2.8 MB/s    
+4m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   6% ΓûòΓûê                 ΓûÅ  40 MB/725 MB  3.9 MB/s   
+2m57s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   6% ΓûòΓûê                 ΓûÅ  42 MB/725 MB  3.9 MB/s   
+2m57s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   6% ΓûòΓûê                 ΓûÅ  42 MB/725 MB  3.9 MB/s   
+2m57s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   6% ΓûòΓûê                 ΓûÅ  44 MB/725 MB  3.9 MB/s   
+2m56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   6% ΓûòΓûê                 ΓûÅ  45 MB/725 MB  3.9 MB/s   
+2m56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   6% ΓûòΓûê                 ΓûÅ  45 MB/725 MB  3.9 MB/s   
+2m56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   6% ΓûòΓûê                 ΓûÅ  46 MB/725 MB  3.9 MB/s   
+2m56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  47 MB/725 MB  3.9 MB/s   
+2m55s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  48 MB/725 MB  3.9 MB/s   
+2m55s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  48 MB/725 MB  3.9 MB/s   
+2m55s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  50 MB/725 MB  4.7 MB/s   
+2m23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  50 MB/725 MB  4.7 MB/s   
+2m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  51 MB/725 MB  4.7 MB/s   
+2m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  52 MB/725 MB  4.7 MB/s   
+2m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  52 MB/725 MB  4.7 MB/s   
+2m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   7% ΓûòΓûê                 ΓûÅ  53 MB/725 MB  4.7 MB/s   
+2m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  55 MB/725 MB  4.7 MB/s   
+2m22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  55 MB/725 MB  4.7 MB/s   
+2m21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  56 MB/725 MB  4.7 MB/s   
+2m21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  57 MB/725 MB  4.7 MB/s   
+2m21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  57 MB/725 MB  5.4 MB/s    
+2m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  58 MB/725 MB  5.4 MB/s    
+2m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  59 MB/725 MB  5.4 MB/s    
+2m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  60 MB/725 MB  5.4 MB/s    
+2m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   8% ΓûòΓûê                 ΓûÅ  60 MB/725 MB  5.4 MB/s    
+2m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   9% ΓûòΓûê                 ΓûÅ  61 MB/725 MB  5.4 MB/s    
+2m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   9% ΓûòΓûê                 ΓûÅ  62 MB/725 MB  5.4 MB/s    
+2m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   9% ΓûòΓûê                 ΓûÅ  63 MB/725 MB  5.4 MB/s    
+2m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   9% ΓûòΓûê                 ΓûÅ  64 MB/725 MB  5.4 MB/s    
+2m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   9% ΓûòΓûê                 ΓûÅ  65 MB/725 MB  5.4 MB/s    
+2m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   9% ΓûòΓûê                 ΓûÅ  66 MB/725 MB  6.3 MB/s   
+1m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   9% ΓûòΓûê                 ΓûÅ  67 MB/725 MB  6.3 MB/s   
+1m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:   9% ΓûòΓûê                 ΓûÅ  68 MB/725 MB  6.3 MB/s   
+1m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  10% ΓûòΓûê                 ΓûÅ  68 MB/725 MB  6.3 MB/s   
+1m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  10% ΓûòΓûê                 ΓûÅ  70 MB/725 MB  6.3 MB/s   
+1m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  10% ΓûòΓûê                 ΓûÅ  70 MB/725 MB  6.3 MB/s   
+1m44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  10% ΓûòΓûê                 ΓûÅ  72 MB/725 MB  6.3 MB/s   
+1m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  10% ΓûòΓûê                 ΓûÅ  73 MB/725 MB  6.3 MB/s   
+1m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  10% ΓûòΓûê                 ΓûÅ  73 MB/725 MB  6.3 MB/s   
+1m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  10% ΓûòΓûê                 ΓûÅ  75 MB/725 MB  6.3 MB/s   
+1m43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  11% ΓûòΓûê                 ΓûÅ  76 MB/725 MB  7.3 MB/s   
+1m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  11% ΓûòΓûê                 ΓûÅ  77 MB/725 MB  7.3 MB/s   
+1m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  11% ΓûòΓûê                 ΓûÅ  78 MB/725 MB  7.3 MB/s   
+1m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  11% ΓûòΓûê                 ΓûÅ  80 MB/725 MB  7.3 MB/s   
+1m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  11% ΓûòΓûêΓûê                ΓûÅ  80 MB/725 MB  7.3 MB/s   
+1m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  11% ΓûòΓûêΓûê                ΓûÅ  81 MB/725 MB  7.3 MB/s   
+1m28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  11% ΓûòΓûêΓûê                ΓûÅ  82 MB/725 MB  7.3 MB/s   
+1m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  11% ΓûòΓûêΓûê                ΓûÅ  82 MB/725 MB  7.3 MB/s   
+1m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  83 MB/725 MB  7.3 MB/s   
+1m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  84 MB/725 MB  7.3 MB/s   
+1m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  85 MB/725 MB  7.3 MB/s   
+1m27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  86 MB/725 MB  8.2 MB/s   
+1m18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  87 MB/725 MB  8.2 MB/s   
+1m17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  87 MB/725 MB  8.2 MB/s   
+1m17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  89 MB/725 MB  8.2 MB/s   
+1m17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  90 MB/725 MB  8.2 MB/s   
+1m17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  12% ΓûòΓûêΓûê                ΓûÅ  90 MB/725 MB  8.2 MB/s   
+1m17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  13% ΓûòΓûêΓûê                ΓûÅ  91 MB/725 MB  8.2 MB/s   
+1m17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  13% ΓûòΓûêΓûê                ΓûÅ  93 MB/725 MB  8.2 MB/s   
+1m17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  13% ΓûòΓûêΓûê                ΓûÅ  93 MB/725 MB  8.2 MB/s   
+1m17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  13% ΓûòΓûêΓûê                ΓûÅ  95 MB/725 MB  8.2 MB/s   
+1m16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  13% ΓûòΓûêΓûê                ΓûÅ  96 MB/725 MB  9.1 MB/s    
+1m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  13% ΓûòΓûêΓûê                ΓûÅ  97 MB/725 MB  9.1 MB/s    
+1m9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  14% ΓûòΓûêΓûê                ΓûÅ  98 MB/725 MB  9.1 MB/s    
+1m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  14% ΓûòΓûêΓûê                ΓûÅ 100 MB/725 MB  9.1 MB/s    
+1m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  14% ΓûòΓûêΓûê                ΓûÅ 100 MB/725 MB  9.1 MB/s    
+1m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  14% ΓûòΓûêΓûê                ΓûÅ 101 MB/725 MB  9.1 MB/s    
+1m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  14% ΓûòΓûêΓûê                ΓûÅ 103 MB/725 MB  9.1 MB/s    
+1m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  14% ΓûòΓûêΓûê                ΓûÅ 103 MB/725 MB  9.1 MB/s    
+1m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  14% ΓûòΓûêΓûê                ΓûÅ 104 MB/725 MB  9.1 MB/s    
+1m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  15% ΓûòΓûêΓûê                ΓûÅ 105 MB/725 MB  9.1 MB/s    
+1m8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  15% ΓûòΓûêΓûê                ΓûÅ 106 MB/725 MB  9.6 MB/s    
+1m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  15% ΓûòΓûêΓûê                ΓûÅ 107 MB/725 MB  9.6 MB/s    
+1m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  15% ΓûòΓûêΓûê                ΓûÅ 109 MB/725 MB  9.6 MB/s    
+1m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  15% ΓûòΓûêΓûê                ΓûÅ 109 MB/725 MB  9.6 MB/s    
+1m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  15% ΓûòΓûêΓûê                ΓûÅ 110 MB/725 MB  9.6 MB/s    
+1m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  15% ΓûòΓûêΓûê                ΓûÅ 111 MB/725 MB  9.6 MB/s    
+1m4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  15% ΓûòΓûêΓûê                ΓûÅ 112 MB/725 MB  9.6 MB/s    
+1m3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  16% ΓûòΓûêΓûê                ΓûÅ 113 MB/725 MB  9.6 MB/s    
+1m3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  16% ΓûòΓûêΓûê                ΓûÅ 114 MB/725 MB  9.6 MB/s    
+1m3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  16% ΓûòΓûêΓûê                ΓûÅ 114 MB/725 MB  9.6 MB/s    
+1m3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  16% ΓûòΓûêΓûê                ΓûÅ 116 MB/725 MB  9.7 MB/s    
+1m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  16% ΓûòΓûêΓûê                ΓûÅ 117 MB/725 MB  9.7 MB/s    
+1m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  16% ΓûòΓûêΓûê                ΓûÅ 117 MB/725 MB  9.7 MB/s    
+1m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  16% ΓûòΓûêΓûê                ΓûÅ 119 MB/725 MB  9.7 MB/s    
+1m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  17% ΓûòΓûêΓûê                ΓûÅ 120 MB/725 MB  9.7 MB/s    
+1m2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  17% ΓûòΓûêΓûêΓûê               ΓûÅ 121 MB/725 MB  9.7 MB/s    
+1m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  17% ΓûòΓûêΓûêΓûê               ΓûÅ 123 MB/725 MB  9.7 MB/s    
+1m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  17% ΓûòΓûêΓûêΓûê               ΓûÅ 124 MB/725 MB  9.7 MB/s    
+1m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  17% ΓûòΓûêΓûêΓûê               ΓûÅ 124 MB/725 MB  9.7 MB/s    
+1m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  17% ΓûòΓûêΓûêΓûê               ΓûÅ 126 MB/725 MB  9.7 MB/s    
+1m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  18% ΓûòΓûêΓûêΓûê               ΓûÅ 127 MB/725 MB  9.8 MB/s    
+1m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  18% ΓûòΓûêΓûêΓûê               ΓûÅ 128 MB/725 MB  9.8 MB/s    
+1m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  18% ΓûòΓûêΓûêΓûê               ΓûÅ 129 MB/725 MB  9.8 MB/s    
+1m1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  18% ΓûòΓûêΓûêΓûê               ΓûÅ 130 MB/725 MB  9.8 MB/s    
+1m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  18% ΓûòΓûêΓûêΓûê               ΓûÅ 131 MB/725 MB  9.8 MB/s    
+1m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  18% ΓûòΓûêΓûêΓûê               ΓûÅ 132 MB/725 MB  9.8 MB/s    
+1m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  19% ΓûòΓûêΓûêΓûê               ΓûÅ 134 MB/725 MB  9.8 MB/s    
+1m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  19% ΓûòΓûêΓûêΓûê               ΓûÅ 135 MB/725 MB  9.8 MB/s    
+1m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  19% ΓûòΓûêΓûêΓûê               ΓûÅ 137 MB/725 MB  9.8 MB/s    
+1m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  19% ΓûòΓûêΓûêΓûê               ΓûÅ 138 MB/725 MB  9.8 MB/s    
+1m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  19% ΓûòΓûêΓûêΓûê               ΓûÅ 138 MB/725 MB  9.8 MB/s    
+1m0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  19% ΓûòΓûêΓûêΓûê               ΓûÅ 139 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  19% ΓûòΓûêΓûêΓûê               ΓûÅ 140 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  19% ΓûòΓûêΓûêΓûê               ΓûÅ 140 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  20% ΓûòΓûêΓûêΓûê               ΓûÅ 142 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  20% ΓûòΓûêΓûêΓûê               ΓûÅ 143 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  20% ΓûòΓûêΓûêΓûê               ΓûÅ 144 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  20% ΓûòΓûêΓûêΓûê               ΓûÅ 145 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  20% ΓûòΓûêΓûêΓûê               ΓûÅ 146 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  20% ΓûòΓûêΓûêΓûê               ΓûÅ 147 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  20% ΓûòΓûêΓûêΓûê               ΓûÅ 148 MB/725 MB  9.9 MB/s     
+58s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  21% ΓûòΓûêΓûêΓûê               ΓûÅ 149 MB/725 MB   10 MB/s     
+56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  21% ΓûòΓûêΓûêΓûê               ΓûÅ 149 MB/725 MB   10 MB/s     
+56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  21% ΓûòΓûêΓûêΓûê               ΓûÅ 151 MB/725 MB   10 MB/s     
+56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  21% ΓûòΓûêΓûêΓûê               ΓûÅ 151 MB/725 MB   10 MB/s     
+56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  21% ΓûòΓûêΓûêΓûê               ΓûÅ 152 MB/725 MB   10 MB/s     
+56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  21% ΓûòΓûêΓûêΓûê               ΓûÅ 153 MB/725 MB   10 MB/s     
+56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  21% ΓûòΓûêΓûêΓûê               ΓûÅ 155 MB/725 MB   10 MB/s     
+56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  21% ΓûòΓûêΓûêΓûê               ΓûÅ 155 MB/725 MB   10 MB/s     
+56s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  22% ΓûòΓûêΓûêΓûê               ΓûÅ 157 MB/725 MB   10 MB/s     
+55s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  22% ΓûòΓûêΓûêΓûê               ΓûÅ 158 MB/725 MB   10 MB/s     
+55s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  22% ΓûòΓûêΓûêΓûê               ΓûÅ 158 MB/725 MB   10 MB/s     
+55s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  22% ΓûòΓûêΓûêΓûê               ΓûÅ 160 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  22% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 161 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  22% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 162 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  23% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 163 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  23% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 164 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  23% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 165 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  23% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 166 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  23% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 168 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  23% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 168 MB/725 MB   10 MB/s     
+54s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  23% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 169 MB/725 MB   10 MB/s     
+53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  24% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 171 MB/725 MB   10 MB/s     
+53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  24% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 172 MB/725 MB   10 MB/s     
+53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  24% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 173 MB/725 MB   10 MB/s     
+53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  24% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 174 MB/725 MB   10 MB/s     
+53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  24% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 175 MB/725 MB   10 MB/s     
+53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  24% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 176 MB/725 MB   10 MB/s     
+53s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  24% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 177 MB/725 MB   10 MB/s     
+52s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  25% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 178 MB/725 MB   10 MB/s     
+52s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  25% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 179 MB/725 MB   10 MB/s     
+52s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  25% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 181 MB/725 MB   10 MB/s     
+51s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  25% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 182 MB/725 MB   10 MB/s     
+51s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  25% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 183 MB/725 MB   10 MB/s     
+51s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  26% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 185 MB/725 MB   10 MB/s     
+51s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  26% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 186 MB/725 MB   10 MB/s     
+50s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  26% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 188 MB/725 MB   10 MB/s     
+50s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  26% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 189 MB/725 MB   10 MB/s     
+50s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  26% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 190 MB/725 MB   10 MB/s     
+50s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  26% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 192 MB/725 MB   10 MB/s     
+50s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  27% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 193 MB/725 MB   10 MB/s     
+50s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  27% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 194 MB/725 MB   10 MB/s     
+50s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  27% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 196 MB/725 MB   11 MB/s     
+47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  27% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 197 MB/725 MB   11 MB/s     
+47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  27% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 198 MB/725 MB   11 MB/s     
+47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  28% ΓûòΓûêΓûêΓûêΓûê              ΓûÅ 199 MB/725 MB   11 MB/s     
+47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  28% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 201 MB/725 MB   11 MB/s     
+47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  28% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 202 MB/725 MB   11 MB/s     
+47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  28% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 204 MB/725 MB   11 MB/s     
+47s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  28% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 205 MB/725 MB   11 MB/s     
+46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  28% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 206 MB/725 MB   11 MB/s     
+46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  29% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 207 MB/725 MB   11 MB/s     
+46s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  29% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 209 MB/725 MB   11 MB/s     
+45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  29% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 210 MB/725 MB   11 MB/s     
+45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  29% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 211 MB/725 MB   11 MB/s     
+45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  29% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 213 MB/725 MB   11 MB/s     
+45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  29% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 213 MB/725 MB   11 MB/s     
+45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  30% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 214 MB/725 MB   11 MB/s     
+45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  30% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 216 MB/725 MB   11 MB/s     
+45s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  30% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 216 MB/725 MB   11 MB/s     
+44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  30% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 217 MB/725 MB   11 MB/s     
+44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  30% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 219 MB/725 MB   11 MB/s     
+44s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  30% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 220 MB/725 MB   11 MB/s     
+43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  31% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 221 MB/725 MB   11 MB/s     
+43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  31% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 223 MB/725 MB   11 MB/s     
+43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  31% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 224 MB/725 MB   11 MB/s     
+43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  31% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 226 MB/725 MB   11 MB/s     
+43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  31% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 227 MB/725 MB   11 MB/s     
+43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  31% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 227 MB/725 MB   11 MB/s     
+43s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  32% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 229 MB/725 MB   11 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  32% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 231 MB/725 MB   11 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  32% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 232 MB/725 MB   11 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  32% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 233 MB/725 MB   11 MB/s     
+41s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  32% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 235 MB/725 MB   11 MB/s     
+41s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  33% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 236 MB/725 MB   11 MB/s     
+41s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  33% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 238 MB/725 MB   11 MB/s     
+41s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  33% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 240 MB/725 MB   11 MB/s     
+41s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  33% ΓûòΓûêΓûêΓûêΓûêΓûê             ΓûÅ 240 MB/725 MB   11 MB/s     
+41s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  33% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 242 MB/725 MB   11 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  34% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 243 MB/725 MB   11 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  34% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 244 MB/725 MB   11 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  34% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 246 MB/725 MB   11 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  34% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 247 MB/725 MB   12 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  34% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 248 MB/725 MB   12 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  34% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 250 MB/725 MB   12 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  35% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 251 MB/725 MB   12 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  35% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 252 MB/725 MB   12 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  35% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 253 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  35% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 255 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  35% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 255 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  35% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 257 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  36% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 258 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  36% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 258 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  36% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 259 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  36% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 260 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  36% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 261 MB/725 MB   12 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  36% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 262 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  36% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 263 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  36% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 263 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 265 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 266 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 267 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 268 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 269 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 269 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 270 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 270 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 270 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  37% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 271 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  38% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 272 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  38% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 272 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  38% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 273 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  38% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 274 MB/725 MB   12 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  38% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 275 MB/725 MB   11 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  38% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 276 MB/725 MB   11 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  38% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 277 MB/725 MB   11 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  38% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 278 MB/725 MB   11 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  39% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 279 MB/725 MB   11 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  39% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 280 MB/725 MB   11 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  39% ΓûòΓûêΓûêΓûêΓûêΓûêΓûê            ΓûÅ 281 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  39% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 282 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  39% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 284 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  39% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 284 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  39% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 285 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  40% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 287 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  40% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 287 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  40% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 289 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  40% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 290 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  40% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 291 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  40% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 292 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  40% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 293 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  41% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 294 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  41% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 296 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  41% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 297 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  41% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 298 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  41% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 299 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  41% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 300 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  42% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 301 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  42% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 303 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  42% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 305 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  42% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 305 MB/725 MB   11 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  42% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 307 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  43% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 308 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  43% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 309 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  43% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 310 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  43% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 312 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  43% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 313 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  43% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 314 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  44% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 316 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  44% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 316 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  44% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 317 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  44% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 318 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  44% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 319 MB/725 MB   11 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  44% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûê           ΓûÅ 320 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  44% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 322 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  45% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 323 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  45% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 325 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  45% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 327 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  45% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 327 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  45% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 329 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  46% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 331 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  46% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 331 MB/725 MB   11 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  46% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 333 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  46% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 334 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  46% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 335 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  46% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 336 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 338 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 339 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 340 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 340 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 341 MB/725 MB   11 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 342 MB/725 MB   11 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 343 MB/725 MB   11 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 343 MB/725 MB   11 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  47% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 344 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 345 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 345 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 346 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 347 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 347 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 348 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 349 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 349 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 350 MB/725 MB   10 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 351 MB/725 MB   10 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  48% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 351 MB/725 MB   10 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 352 MB/725 MB   10 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 353 MB/725 MB   10 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 353 MB/725 MB   10 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 354 MB/725 MB   10 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 355 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 355 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 356 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 356 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 357 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 357 MB/725 MB  9.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  49% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 358 MB/725 MB  9.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 359 MB/725 MB  9.9 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 360 MB/725 MB  9.9 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 361 MB/725 MB  9.9 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 361 MB/725 MB  9.9 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê          ΓûÅ 362 MB/725 MB  9.9 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 363 MB/725 MB  9.9 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 363 MB/725 MB  9.9 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 364 MB/725 MB  9.9 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 365 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  50% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 366 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 367 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 368 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 368 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 369 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 370 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 370 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 371 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 372 MB/725 MB   10 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  51% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 373 MB/725 MB  9.7 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 373 MB/725 MB  9.7 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 375 MB/725 MB  9.7 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 375 MB/725 MB  9.7 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 376 MB/725 MB  9.7 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 377 MB/725 MB  9.7 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 378 MB/725 MB  9.7 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 379 MB/725 MB  9.7 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 380 MB/725 MB  9.7 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  52% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 380 MB/725 MB  9.7 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 381 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 382 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 383 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 384 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 385 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 385 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 386 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 387 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  53% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 387 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 388 MB/725 MB  9.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 389 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 390 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 390 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 391 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 391 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 392 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 392 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 392 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 393 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 394 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  54% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 395 MB/725 MB  8.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 395 MB/725 MB  8.2 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 397 MB/725 MB  8.2 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 397 MB/725 MB  8.2 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 398 MB/725 MB  8.2 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 399 MB/725 MB  8.2 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 399 MB/725 MB  8.2 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 400 MB/725 MB  8.2 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 401 MB/725 MB  8.2 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 401 MB/725 MB  8.2 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  55% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê         ΓûÅ 402 MB/725 MB  8.2 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  56% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 403 MB/725 MB  7.5 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  56% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 404 MB/725 MB  7.5 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  56% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 404 MB/725 MB  7.5 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  56% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 406 MB/725 MB  7.5 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  56% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 406 MB/725 MB  7.5 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  56% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 407 MB/725 MB  7.5 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  56% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 408 MB/725 MB  7.5 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  56% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 409 MB/725 MB  7.5 MB/s     
+42s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  57% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 411 MB/725 MB  7.5 MB/s     
+41s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  57% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 412 MB/725 MB  7.5 MB/s     
+41s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  57% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 413 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  57% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 414 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  57% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 415 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  57% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 415 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  57% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 416 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  57% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 417 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 417 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 418 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 419 MB/725 MB  7.6 MB/s     
+40s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 420 MB/725 MB  7.6 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 421 MB/725 MB  7.7 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 421 MB/725 MB  7.7 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 422 MB/725 MB  7.7 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 423 MB/725 MB  7.7 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  58% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 424 MB/725 MB  7.7 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 424 MB/725 MB  7.7 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 426 MB/725 MB  7.7 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 426 MB/725 MB  7.7 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 426 MB/725 MB  7.7 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 427 MB/725 MB  7.7 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 428 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 429 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 429 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 429 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 429 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 429 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 430 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 431 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  59% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 431 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 432 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 432 MB/725 MB  7.9 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 432 MB/725 MB  7.5 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 433 MB/725 MB  7.5 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 433 MB/725 MB  7.5 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 434 MB/725 MB  7.5 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 434 MB/725 MB  7.5 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 435 MB/725 MB  7.5 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 435 MB/725 MB  7.5 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 437 MB/725 MB  7.5 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 437 MB/725 MB  7.5 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 438 MB/725 MB  7.5 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  60% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 438 MB/725 MB  7.3 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  61% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 439 MB/725 MB  7.3 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  61% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 440 MB/725 MB  7.3 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  61% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 441 MB/725 MB  7.3 MB/s     
+39s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  61% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê        ΓûÅ 442 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  61% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 443 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  61% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 444 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  61% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 445 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  61% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 446 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  62% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 446 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  62% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 447 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  62% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 448 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  62% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 449 MB/725 MB  7.3 MB/s     
+38s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  62% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 449 MB/725 MB  7.3 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  62% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 451 MB/725 MB  7.3 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  62% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 452 MB/725 MB  7.3 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  62% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 452 MB/725 MB  7.3 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 453 MB/725 MB  7.3 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 454 MB/725 MB  7.3 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 455 MB/725 MB  7.3 MB/s     
+37s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 456 MB/725 MB  7.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 457 MB/725 MB  7.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 457 MB/725 MB  7.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 459 MB/725 MB  7.4 MB/s     
+36s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 459 MB/725 MB  7.4 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  63% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 460 MB/725 MB  7.4 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 461 MB/725 MB  7.4 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 461 MB/725 MB  7.4 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 461 MB/725 MB  7.4 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 462 MB/725 MB  7.4 MB/s     
+35s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 464 MB/725 MB  7.6 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 464 MB/725 MB  7.6 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 465 MB/725 MB  7.6 MB/s     
+34s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 466 MB/725 MB  7.6 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 467 MB/725 MB  7.6 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  64% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 467 MB/725 MB  7.6 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  65% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 468 MB/725 MB  7.6 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  65% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 469 MB/725 MB  7.6 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  65% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 470 MB/725 MB  7.6 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  65% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 471 MB/725 MB  7.6 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  65% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 471 MB/725 MB  7.6 MB/s     
+33s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  65% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 472 MB/725 MB  7.7 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  65% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 473 MB/725 MB  7.7 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  65% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 473 MB/725 MB  7.7 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  66% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 475 MB/725 MB  7.7 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  66% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 476 MB/725 MB  7.7 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  66% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 476 MB/725 MB  7.7 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  66% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 478 MB/725 MB  7.7 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  66% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 479 MB/725 MB  7.7 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  66% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 479 MB/725 MB  7.7 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  66% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 480 MB/725 MB  7.7 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  66% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 482 MB/725 MB  7.6 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 482 MB/725 MB  7.6 MB/s     
+32s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê       ΓûÅ 483 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 484 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 484 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 485 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 486 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 486 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 488 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 489 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  67% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 489 MB/725 MB  7.6 MB/s     
+31s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  68% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 490 MB/725 MB  7.6 MB/s     
+30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  68% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 492 MB/725 MB  7.6 MB/s     
+30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  68% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 492 MB/725 MB  7.6 MB/s     
+30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  68% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 493 MB/725 MB  7.6 MB/s     
+30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  68% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 495 MB/725 MB  7.6 MB/s     
+30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  68% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 495 MB/725 MB  7.6 MB/s     
+30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  68% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 496 MB/725 MB  7.6 MB/s     
+30s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  69% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 497 MB/725 MB  7.6 MB/s     
+29s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  69% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 498 MB/725 MB  7.6 MB/s     
+29s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  69% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 499 MB/725 MB  7.9 MB/s     
+28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  69% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 501 MB/725 MB  7.9 MB/s     
+28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  69% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 501 MB/725 MB  7.9 MB/s     
+28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  69% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 503 MB/725 MB  7.9 MB/s     
+28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 504 MB/725 MB  7.9 MB/s     
+28s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 505 MB/725 MB  7.9 MB/s     
+27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 506 MB/725 MB  7.9 MB/s     
+27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 507 MB/725 MB  7.9 MB/s     
+27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 507 MB/725 MB  7.9 MB/s     
+27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 508 MB/725 MB  7.9 MB/s     
+27s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 509 MB/725 MB  8.5 MB/s     
+25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 509 MB/725 MB  8.5 MB/s     
+25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  70% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 510 MB/725 MB  8.5 MB/s     
+25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 511 MB/725 MB  8.5 MB/s     
+25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 512 MB/725 MB  8.5 MB/s     
+25s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 513 MB/725 MB  8.5 MB/s     
+24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 514 MB/725 MB  8.5 MB/s     
+24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 515 MB/725 MB  8.5 MB/s     
+24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 515 MB/725 MB  8.5 MB/s     
+24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 516 MB/725 MB  8.5 MB/s     
+24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 517 MB/725 MB  8.5 MB/s     
+24s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  71% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 518 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 519 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 519 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 520 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 521 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 521 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 521 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 522 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê      ΓûÅ 523 MB/725 MB  8.8 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 524 MB/725 MB  8.8 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 525 MB/725 MB  8.6 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  72% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 525 MB/725 MB  8.6 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 526 MB/725 MB  8.6 MB/s     
+23s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 527 MB/725 MB  8.6 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 528 MB/725 MB  8.6 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 528 MB/725 MB  8.6 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 529 MB/725 MB  8.6 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 530 MB/725 MB  8.6 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 530 MB/725 MB  8.6 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 532 MB/725 MB  8.6 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  73% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 532 MB/725 MB  8.5 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  74% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 533 MB/725 MB  8.5 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  74% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 535 MB/725 MB  8.5 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  74% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 535 MB/725 MB  8.5 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  74% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 536 MB/725 MB  8.5 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  74% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 537 MB/725 MB  8.5 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  74% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 538 MB/725 MB  8.5 MB/s     
+22s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  74% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 539 MB/725 MB  8.5 MB/s     
+21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  74% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 540 MB/725 MB  8.5 MB/s     
+21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  75% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 540 MB/725 MB  8.5 MB/s     
+21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  75% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 541 MB/725 MB  8.6 MB/s     
+21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  75% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 542 MB/725 MB  8.6 MB/s     
+21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  75% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 543 MB/725 MB  8.6 MB/s     
+21s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  75% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 544 MB/725 MB  8.6 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  75% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 545 MB/725 MB  8.6 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  75% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 545 MB/725 MB  8.6 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  75% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 547 MB/725 MB  8.6 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 548 MB/725 MB  8.6 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 548 MB/725 MB  8.6 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 549 MB/725 MB  8.6 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 550 MB/725 MB  8.7 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 550 MB/725 MB  8.7 MB/s     
+20s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 551 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 552 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 553 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  76% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 554 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 555 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 555 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 555 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 557 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 557 MB/725 MB  8.7 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 558 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 559 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 559 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 560 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 560 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 560 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  77% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 561 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  78% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 563 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  78% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê     ΓûÅ 563 MB/725 MB  8.5 MB/s     
+19s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  78% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 565 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  78% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 566 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  78% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 566 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  78% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 567 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  78% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 568 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  78% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 568 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 570 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 571 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 571 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 572 MB/725 MB  8.5 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 573 MB/725 MB  8.5 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 574 MB/725 MB  8.3 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 575 MB/725 MB  8.3 MB/s     
+18s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 576 MB/725 MB  8.3 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  79% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 576 MB/725 MB  8.3 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 577 MB/725 MB  8.3 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 578 MB/725 MB  8.3 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 578 MB/725 MB  8.3 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 579 MB/725 MB  8.3 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 580 MB/725 MB  8.3 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 580 MB/725 MB  8.3 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 581 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 582 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  80% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 582 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 584 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 585 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 585 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 586 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 587 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 588 MB/725 MB  8.1 MB/s     
+17s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 589 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 590 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  81% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 590 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 591 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 592 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 592 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 593 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 594 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 595 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 596 MB/725 MB  8.1 MB/s     
+16s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 597 MB/725 MB  8.1 MB/s     
+15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  82% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 597 MB/725 MB  8.1 MB/s     
+15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 599 MB/725 MB  8.2 MB/s     
+15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 600 MB/725 MB  8.2 MB/s     
+15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 600 MB/725 MB  8.2 MB/s     
+15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 601 MB/725 MB  8.2 MB/s     
+15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 602 MB/725 MB  8.2 MB/s     
+15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 602 MB/725 MB  8.2 MB/s     
+15s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 603 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 603 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê    ΓûÅ 604 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  83% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 605 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  84% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 606 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  84% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 607 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  84% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 608 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  84% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 610 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  84% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 610 MB/725 MB  8.2 MB/s     
+14s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  84% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 611 MB/725 MB  8.2 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  84% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 612 MB/725 MB  8.2 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  84% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 612 MB/725 MB  8.2 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  85% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 613 MB/725 MB  8.2 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  85% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 614 MB/725 MB  8.2 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  85% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 614 MB/725 MB  8.1 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  85% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 616 MB/725 MB  8.1 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  85% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 617 MB/725 MB  8.1 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  85% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 618 MB/725 MB  8.1 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  85% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 619 MB/725 MB  8.1 MB/s     
+13s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 620 MB/725 MB  8.1 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 621 MB/725 MB  8.1 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 621 MB/725 MB  8.1 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 623 MB/725 MB  8.1 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 623 MB/725 MB  8.1 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 624 MB/725 MB  8.2 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 625 MB/725 MB  8.2 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 626 MB/725 MB  8.2 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 626 MB/725 MB  8.2 MB/s     
+12s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 627 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  86% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 627 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 628 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 629 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 629 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 630 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 631 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 632 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 633 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 633 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  87% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 634 MB/725 MB  8.2 MB/s     
+11s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 635 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 636 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 636 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 638 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 639 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 639 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 640 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 640 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  88% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 641 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 642 MB/725 MB  8.2 MB/s     
+10s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 643 MB/725 MB  8.2 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 643 MB/725 MB  8.2 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê   ΓûÅ 644 MB/725 MB  8.2 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 645 MB/725 MB  8.2 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 646 MB/725 MB  8.2 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 646 MB/725 MB  8.2 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 647 MB/725 MB  8.1 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  89% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 648 MB/725 MB  8.1 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 649 MB/725 MB  8.1 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 650 MB/725 MB  8.1 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 651 MB/725 MB  8.1 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 651 MB/725 MB  8.1 MB/s      
+9s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 652 MB/725 MB  8.1 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 653 MB/725 MB  8.1 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 654 MB/725 MB  8.1 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 654 MB/725 MB  8.1 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 655 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 655 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  90% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 656 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 656 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 657 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 658 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 658 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 659 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 660 MB/725 MB  8.2 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 660 MB/725 MB  8.2 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 661 MB/725 MB  7.9 MB/s      
+8s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 662 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 663 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  91% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 663 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 664 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 665 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 665 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 666 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 666 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 667 MB/725 MB  7.9 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 668 MB/725 MB  7.8 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 669 MB/725 MB  7.8 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 669 MB/725 MB  7.8 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  92% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 670 MB/725 MB  7.8 MB/s      
+7s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 671 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 672 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 673 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 673 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 674 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 675 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 675 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 676 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  93% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 678 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 678 MB/725 MB  7.8 MB/s      
+6s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 679 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 680 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 680 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 681 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 682 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 682 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê  ΓûÅ 684 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  94% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 685 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 686 MB/725 MB  7.8 MB/s      
+5s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 687 MB/725 MB  7.8 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 688 MB/725 MB  7.8 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 689 MB/725 MB  7.8 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 689 MB/725 MB  7.8 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 690 MB/725 MB  7.8 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 690 MB/725 MB  7.8 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 691 MB/725 MB  7.8 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  95% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 692 MB/725 MB  7.8 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 693 MB/725 MB  7.6 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 694 MB/725 MB  7.6 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 695 MB/725 MB  7.6 MB/s      
+4s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 695 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 696 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 697 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 697 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 698 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 699 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 699 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  96% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 699 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 700 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 701 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 702 MB/725 MB  7.6 MB/s      
+3s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 702 MB/725 MB  7.6 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 703 MB/725 MB  7.6 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 704 MB/725 MB  7.6 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 704 MB/725 MB  7.6 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 705 MB/725 MB  7.6 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 705 MB/725 MB  7.6 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 706 MB/725 MB  7.4 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  97% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 707 MB/725 MB  7.4 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 707 MB/725 MB  7.4 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 708 MB/725 MB  7.4 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 709 MB/725 MB  7.4 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 709 MB/725 MB  7.4 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 710 MB/725 MB  7.4 MB/s      
+2s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 710 MB/725 MB  7.4 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 712 MB/725 MB  7.4 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 712 MB/725 MB  7.4 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 713 MB/725 MB  7.4 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 713 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  98% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 714 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 714 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 715 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 716 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 716 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 716 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 717 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 717 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 718 MB/725 MB  7.3 MB/s      
+1s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 718 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 718 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 719 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 720 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 720 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 720 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6:  99% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 721 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 721 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 722 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 723 MB/725 MB  7.0 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 723 MB/725 MB  6.9 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 724 MB/725 MB  6.9 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûê ΓûÅ 725 MB/725 MB  6.9 MB/s      
+0s[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K[?25h[?2026l[?2026h[?25l[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γáï [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest ΓáÖ [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γá╣ [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γá╕ [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γá╝ [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γá┤ [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γáª [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γáº [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γáç [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest ΓáÅ [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest Γáï [K[?25h[?2026l[?2026h[?25l[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest [K
+writing manifest Γáï [K[?25h[?2026l[?2026h[?25l[A[A[A[A[1Gpulling manifest [K
+pulling 7d23be4097d6: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ 725 MB                         
+[K
+pulling 7b5a4e25bd7f: 100% ΓûòΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓûÅ  561 B                         
+[K
+verifying sha256 digest [K
+writing manifest [K
+success [K[?25h[?2026l
